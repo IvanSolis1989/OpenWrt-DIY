@@ -18,7 +18,7 @@ on:
     branches:
       - main
     paths:
-      - 'rpi3-lean-openwrt.config'
+      - '/config/rpi3-lean-openwrt.config'
   schedule:
     - cron: 0 4 * * 5
   watch:
@@ -28,7 +28,7 @@ env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: rpi3-lean-openwrt.config
+  CONFIG_FILE: /config/rpi3-lean-openwrt.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   SSH_ACTIONS: false

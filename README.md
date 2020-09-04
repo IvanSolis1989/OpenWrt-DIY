@@ -58,7 +58,7 @@
 
 #### 微信
 
-![微信捐助](img/wepay.jpg) width=200
+<img src="img/wepay.jpg" width="200" height="200" alt="抖音小程序"/><br/>
 
 ## <p align="center">鸣谢：</p>
 

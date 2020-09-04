@@ -11,7 +11,7 @@
 
 <p align="center">**点击下表中 “⬇️” 即可跳转到该设备固件下载页面。**</p>
 
-<p align="center">|     支持设备/版本    |                          Lean源码OpenWrt固件包                        |
+|     支持设备/版本    |                          Lean源码OpenWrt固件包                        |
 | :-----------------: | :----------------------------------------------------------------------------------------------: |
 |    x86_64 (64位)    | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22) |
 |    x86_64 (32位)    | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2832bit%29+OpenWrt%22) |
@@ -22,7 +22,7 @@
 |         K2P         | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+K2P+OpenWrt%22) |
 |        N1盒子       | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+N1+OpenWrt%22) |
 |      红米AC2100     | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Redmi+AC2100+OpenWrt%22) |
-|      Newifi D2     | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Newifi+D2+OpenWrt%22) |</p>
+|      Newifi D2     | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Newifi+D2+OpenWrt%22) |
 
 <p align="center">（更多设备不定期加入中，本列表有可能未更新，可点击Actions查看）</p>
 

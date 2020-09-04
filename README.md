@@ -24,9 +24,10 @@
 | 9 |      红米AC2100     | [![](img/RedmiAC2100-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Redmi+AC2100+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20Redmi%20AC2100%20OpenWrt?style=plastic) |[Lean的Openwrt源码](https://github.com/coolsnowwolf/lede) | | 
 | 10 |      Newifi D2     |  [![](img/Newifi-D2-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Newifi+D2+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20Newifi%20D2%20OpenWrt?style=plastic) |[Lean的Openwrt源码](https://github.com/coolsnowwolf/lede) | | 
 
-**提示：Passing绿色标志为正常，全Falling并不代表所有项目编译失败。更多设备不定期加入中，本列表有可能未完全更新，请到Actions进一步查看。**
+**提示：Passing绿色标志为正常，全Falling并不代表所有项目编译失败。请到Actions进一步查看。**
 
 本方案默认引用 Lean 的源码，因为他的 README 影响了我开始学习编译，也就有了这个项目，而且他的源码非常的优秀。
+
 把他的源码链接挂出来也是希望动手能力强的朋友去学习编译，然后根据你自己的需要配置menuconfig，把配置好的config文件提交到本项目，本项目更可以根据使用者的需求扩展编译支持的设备。
 
 ## <p align="center">注意事项：</p>

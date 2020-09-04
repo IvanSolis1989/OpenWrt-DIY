@@ -1,6 +1,6 @@
 # [OpenWrt-DIY](https://github.com/IvanSolis1989/OpenWrt-DIY)
 
-用GitHub Actions自动编译OpenWrt固件
+## 本项目自动编译OpenWrt对应设备的固件
 
 请 **认真阅读完毕** 本说明，本说明包含如何提升固件下载体验的内容。
 

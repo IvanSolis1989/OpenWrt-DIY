@@ -54,11 +54,11 @@
 
 #### 支付宝
 
-![支付宝捐助](img/alipay.jpg)
+![支付宝捐助](img/alipay.jpg) width=200
 
 #### 微信
 
-![微信捐助](img/wepay.jpg)
+![微信捐助](img/wepay.jpg) width=200
 
 ## <p align="center">鸣谢：</p>
 

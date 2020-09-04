@@ -3,8 +3,6 @@
 
 ![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY)       ![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY)       ![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY)
 
-## <p align="center">本项目自动编译对应设备的OpenWrt固件</p>
-
 请 **认真阅读完毕** 本说明，本说明包含如何提升固件下载体验的内容。
 
 如果您未阅读完本说明，可能会遇到 **固件下载链接不可被点击/固件下载速度慢/固件下载失败** 等问题，如若遇到以上问题，请 **返回此页面，认真完整阅读一次本说明** ~

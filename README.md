@@ -33,3 +33,7 @@ P3TERX/Actions-OpenWrt (本项目基于此项目):
 Lean's OpenWrt source:
 
 <https://github.com/coolsnowwolf/lede>
+
+OpenWrt-Rpi
+
+<https://github.com/SuLingGG/OpenWrt-Rpi>

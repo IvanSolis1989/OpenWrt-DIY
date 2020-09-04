@@ -52,6 +52,12 @@
 
 ### 捐助方式
 
+
+|     支付宝   |   微信   | 
+| :-----------------: | :-------------: |
+|<img src="img/alipay.jpg" width="200" height="200" alt="支付宝捐助"/><br/>|<img src="img/wepay.jpg" width="200" height="200" alt="微信捐助"/><br/>|
+
+
 #### 支付宝
 
 <img src="img/alipay.jpg" width="200" height="200" alt="支付宝捐助"/><br/>

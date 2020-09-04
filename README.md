@@ -38,14 +38,14 @@
 
 ## <p align="center">鸣谢：</p>
 
-<p align="center">P3TERX/Actions-OpenWrt (本项目基于此项目):</p>
+P3TERX/Actions-OpenWrt (本项目基于此项目):
 
 <https://github.com/P3TERX/Actions-OpenWrt>
 
-<p align="center">Lean's OpenWrt source:</p>
+Lean's OpenWrt source:
 
 <https://github.com/coolsnowwolf/lede>
 
-<p align="center">OpenWrt-Rpi</p>
+OpenWrt-Rpi：
 
 <https://github.com/SuLingGG/OpenWrt-Rpi>

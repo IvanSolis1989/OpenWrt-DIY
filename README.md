@@ -11,8 +11,8 @@
 
 **点击下表中 “⬇️” 即可跳转到该设备固件下载页面。** 
 
-|     支持设备/版本    |                          Lean源码OpenWrt固件包                        | 编译状态|
-| :-----------------: | :----------------------------------------------------------------------------------------------: |:-----------------: | 
+|     支持设备/版本    |   下载链接   |   编译状态   |
+| :-----------------: | :-------------: |:-----------------: | 
 |    x86_64 (64位)    | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20X86(64bit)%20OpenWrt?style=plastic) |
 |    x86_64 (32位)    | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2832bit%29+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20X86(32bit)%20OpenWrt?style=plastic) |
 |       竞斗云        | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+G-Dock+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20G-Dock%20OpenWrt?style=plastic) |

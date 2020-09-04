@@ -24,7 +24,7 @@
 |      红米AC2100     | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Redmi+AC2100+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20Redmi%20AC2100%20OpenWrt?style=plastic) |
 |      Newifi D2     | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Newifi+D2+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20Newifi%20D2%20OpenWrt?style=plastic) |
 
-**提示：passing绿色标志为状态正常。如果全为falling也并不代表所有项目全部编译失败，更多设备不定期加入中，本列表有可能未完全更新，请到Actions进一步查看**
+**提示：Passing绿色标志为正常，全Falling并不代表所有项目编译失败。更多设备不定期加入中，本列表有可能未完全更新，请到Actions进一步查看**
 
 ## <p align="center">注意事项：</p>
 

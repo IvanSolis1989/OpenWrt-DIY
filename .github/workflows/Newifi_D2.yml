@@ -20,7 +20,7 @@ on:
     paths:
       - 'Newifi_D2.config'
   schedule:
-    - cron: 0 8 * * 5
+    - cron: 0 4 * * 5
   watch:
     types: started
 

@@ -1,6 +1,8 @@
 
-# [OpenWrt-DIY](https://github.com/IvanSolis1989/OpenWrt-DIY)(https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY)
-(https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY)(https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY)
+# [OpenWrt-DIY](https://github.com/IvanSolis1989/OpenWrt-DIY)
+
+(https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY)(https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY)(https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY)
+
 ## <p align="center">本项目自动编译对应设备的OpenWrt固件</p>
 
 请 **认真阅读完毕** 本说明，本说明包含如何提升固件下载体验的内容。

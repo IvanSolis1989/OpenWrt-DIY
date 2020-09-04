@@ -13,11 +13,11 @@
 **点击下表中 “⬇️” 即可跳转到该设备固件下载页面。**
 
 |     支持设备/版本    |                          Lean源码OpenWrt固件包                        |
-| :-----------------: | :----------------------------------------------------------: |
-|       竞斗云        | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+G-Dock+OpenWrt%22) |
-|      树莓派 4B      | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+RaspBerryPi4+OpenWrt%22) |
+| :-----------------: | :----------------------------------------------------------------------------------------------: |
 |    x86_64 (64位)    | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22) |
 | x86_generic (32位)  | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2832bit%29+OpenWrt%22) |
+|       竞斗云        | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+G-Dock+OpenWrt%22) |
+|      树莓派 4B      | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+RaspBerryPi4+OpenWrt%22) |
 |         K2T         | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+K2T+OpenWrt%22) |
 |         K2P         | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+K2P+OpenWrt%22) |
 |        N1盒子       | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+N1+OpenWrt%22) |

@@ -49,7 +49,7 @@
 
 |     支付宝   |   微信   | 
 | :-----------------: | :-------------: |
-|<img src="img/alipay.jpg" width="200" height="200" alt="支付宝捐助"/><br/>|<img src="img/wepay.jpg" width="200" height="200" alt="微信捐助"/><br/>|
+|<img src="img/alipay.jpg" width="150" height="150" alt="支付宝捐助"/><br/>|<img src="img/wepay.jpg" width="150" height="150" alt="微信捐助"/><br/>|
 
 ## <p align="center">鸣谢：</p>
 

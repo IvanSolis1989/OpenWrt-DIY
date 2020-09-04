@@ -7,8 +7,6 @@
 
 如果您未阅读完本说明，可能会遇到 **固件下载链接不可被点击/固件下载速度慢/固件下载失败** 等问题，如若遇到以上问题，请 **返回此页面，认真完整阅读一次本说明** ~
 
-目前支持树莓派4（自用），X86（32bit\64bit），红米AC2100，NEWIFI D2，竞斗云，K2T，K2P，N1盒子等。(更多设备不定期加入中，具体请点击Actions查看）
-
 ## 支持设备与固件下载：
 
 **点击下表中 “⬇️” 即可跳转到该设备固件下载页面。**
@@ -26,7 +24,7 @@
 |      红米AC2100     | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Redmi+AC2100+OpenWrt%22) |
 |      Newifi D2     | [⬇️](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Newifi+D2+OpenWrt%22) |
 
-
+(更多设备不定期加入中，本列表有可能未更新，可点击Actions查看）
 
 ## 注意事项：
 

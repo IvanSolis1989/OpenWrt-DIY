@@ -3,9 +3,9 @@
 
 ## <p align="center">本项目自动编译对应设备的OpenWrt固件</p>
 
-请 **认真阅读完毕** 本说明，本说明包含如何提升固件下载体验的内容。
+<p align="center">请 **认真阅读完毕** 本说明，本说明包含如何提升固件下载体验的内容。</p>
 
-如果您未阅读完本说明，可能会遇到 **固件下载链接不可被点击/固件下载速度慢/固件下载失败** 等问题，如若遇到以上问题，请 **返回此页面，认真完整阅读一次本说明** ~
+<p align="center">如果您未阅读完本说明，可能会遇到 **固件下载链接不可被点击/固件下载速度慢/固件下载失败** 等问题，如若遇到以上问题，请 **返回此页面，认真完整阅读一次本说明** ~</p>
 
 ## <p align="center">支持设备与固件下载：</p>
 
@@ -40,12 +40,12 @@
 
 <p align="center">P3TERX/Actions-OpenWrt (本项目基于此项目):</p>
 
-<p align="center"><https://github.com/P3TERX/Actions-OpenWrt></p>
+<https://github.com/P3TERX/Actions-OpenWrt>
 
 <p align="center">Lean's OpenWrt source:</p>
 
-<p align="center"><https://github.com/coolsnowwolf/lede></p>
+<https://github.com/coolsnowwolf/lede>
 
 <p align="center">OpenWrt-Rpi</p>
 
-<p align="center"><https://github.com/SuLingGG/OpenWrt-Rpi></p>
+<https://github.com/SuLingGG/OpenWrt-Rpi>

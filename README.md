@@ -53,7 +53,7 @@
 
 ## <p align="center">鸣谢：</p>
 
-P3TERX/Actions-OpenWrt (本项目基于此项目):
+P3TERX/Actions-OpenWrt:
 <https://github.com/P3TERX/Actions-OpenWrt>
 
 Lean's OpenWrt source:

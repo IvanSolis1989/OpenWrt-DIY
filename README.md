@@ -59,7 +59,7 @@
 
 ### 本地编译相关教程
 
-[基本编译教程](https://blog.csdn.net/Dreame_Architect/article/details/101527640）
+[基本编译教程](https://blog.csdn.net/Dreame_Architect/article/details/101527640)
 
 [WIN10内置ubuntu子系统编译教程](http://www.fuweijun.com/index.php/2019/07/03/win10%E5%AD%90linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E8%AF%91openwrt/)
 

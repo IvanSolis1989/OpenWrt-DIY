@@ -49,14 +49,25 @@
 
 ## OpenWrt使用小贴士：
 
-Anti-AD 目前中文区命中率最高的广告过滤列表：
-<https://github.com/privacy-protection-tools/anti-AD>
+### 常用
 
-OpenWrt网络共享文件和Transmission使用技巧，再也没有恼人的权限问题：
-<https://youtu.be/wmR7o9p9vSY>
+[Anti-AD 目前中文区命中率最高的广告过滤列表](https://github.com/privacy-protection-tools/anti-AD)
 
-SD卡设备固件刷写程序 BalenaEtcher:
-<https://www.balena.io/etcher/>
+[OpenWrt网络共享文件和Transmission使用技巧，再也没有恼人的权限问题](https://youtu.be/wmR7o9p9vSY)
+
+[SD卡设备固件刷写程序 BalenaEtcher](https://www.balena.io/etcher/)
+
+### 本地编译相关教程
+
+[基本编译教程](https://blog.csdn.net/Dreame_Architect/article/details/101527640）
+
+[WIN10内置ubuntu子系统编译教程](http://www.fuweijun.com/index.php/2019/07/03/win10%E5%AD%90linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E8%AF%91openwrt/)
+
+[Win10子系统Ubuntu18.04下编译openwrt问题及解决方法](https://blog.csdn.net/khaunag/article/details/104854536)
+
+[ubuntu自带源更新慢可以参照这个页面换成清华大学镜像源](https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/)
+
+[Lean's OpenWrt 插件大全](https://www.right.com.cn/forum/thread-344825-1-1.html)
 
 ## 赞助/支持本项目：
 
@@ -72,8 +83,6 @@ SD卡设备固件刷写程序 BalenaEtcher:
 
 ## 鸣谢：
 
-P3TERX/Actions-OpenWrt：
-<https://github.com/P3TERX/Actions-OpenWrt>
+[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 
-Lean's OpenWrt source：
-<https://github.com/coolsnowwolf/lede>
+[Lean's OpenWrt source](https://github.com/coolsnowwolf/lede)

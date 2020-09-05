@@ -26,7 +26,7 @@
 | 11 |      小娱C5      | [![](img/C5-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+XiaoYu+XY-C5+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20XiaoYu%20XY-C5%20OpenWrt) |[Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede)  |  |
 | 12|      R2S     | [![](img/R2S-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+R2S+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20R2S%20OpenWrt) |[Friendly整合Lean源码](https://github.com/klever1988/nanopi-openwrt)  | ZIP文件解压后刷 |
 
-**提示：Passing绿色标志为正常，全Falling并不代表所有项目编译失败。请到Actions进一步查看。**
+**提示：Passing绿色标志为正常，非Passing或全Falling并不代表所有项目编译失败。请到Actions进一步查看。**
 
 本方案默认引用 Lean 的源码，因为他的 README 影响了我开始学习编译，也就有了这个项目，而且他的源码非常的优秀。
 

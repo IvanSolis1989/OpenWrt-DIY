@@ -60,7 +60,7 @@
 Anti-AD 目前中文区命中率最高的广告过滤列表：
 <https://github.com/privacy-protection-tools/anti-AD>
 
-OpenWrt网络共享文件和Transmission使用技巧，再也没有恼人的权限问题~
+OpenWrt网络共享文件和Transmission使用技巧，再也没有恼人的权限问题：
 <https://youtu.be/wmR7o9p9vSY>
 
 ## <p align="center">鸣谢：</p>

@@ -21,8 +21,8 @@ on:
       - '.github/workflows/r2s_lean.yml'
   schedule:
     - cron: 0 4 * * 5
-  watch:
-    types: started
+#  watch:
+#    types: started
    
 jobs:
 

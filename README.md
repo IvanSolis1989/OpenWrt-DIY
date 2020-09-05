@@ -55,6 +55,11 @@
 | :-----------------: | :-------------: |
 |<img src="img/alipay.jpg" width="150" height="150" alt="支付宝捐助"/><br/>|<img src="img/wepay.jpg" width="150" height="150" alt="微信捐助"/><br/>|
 
+## <p align="center">常用项目：</p>
+
+Anti-AD 目前中文区命中率最高的广告过滤列表：
+<https://github.com/privacy-protection-tools/anti-AD>
+
 ## <p align="center">鸣谢：</p>
 
 P3TERX/Actions-OpenWrt:

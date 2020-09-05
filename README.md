@@ -1,5 +1,5 @@
 
-# [🔘OpenWrt-DIY——多设备OpenWrt固件自动编译🔘](https://github.com/IvanSolis1989/OpenWrt-DIY)
+# [OpenWrt-DIY——多设备OpenWrt固件自动编译](https://github.com/IvanSolis1989/OpenWrt-DIY)
 
 ![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY)       ![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY)       ![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY)
 

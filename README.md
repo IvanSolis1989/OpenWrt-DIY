@@ -83,6 +83,6 @@
 
 ## 鸣谢：
 
-[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
+[P3TERX的Action源码](https://github.com/P3TERX/Actions-OpenWrt)
 
-[Lean's OpenWrt source](https://github.com/coolsnowwolf/lede)
+[Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede)

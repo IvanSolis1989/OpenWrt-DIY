@@ -65,7 +65,7 @@
 
 [Win10子系统Ubuntu18.04下编译openwrt问题及解决方法](https://blog.csdn.net/khaunag/article/details/104854536)
 
-[ubuntu自带源更新慢可以参照这个页面换成清华大学镜像源](https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/)
+[Ubuntu自带源更新慢可以参照这个页面换成清华大学镜像源](https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/)
 
 [Lean's OpenWrt 插件大全](https://www.right.com.cn/forum/thread-344825-1-1.html)
 

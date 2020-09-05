@@ -67,7 +67,7 @@
 
 [Ubuntu自带源更新慢可以参照这个页面换成清华大学镜像源](https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/)
 
-[Lean's OpenWrt 插件大全](https://www.right.com.cn/forum/thread-344825-1-1.html)
+[Lean's OpenWrt 插件大全](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-%E7%BC%96%E8%AF%91-LuCI----Applications-%E6%B7%BB%E5%8A%A0%E6%8F%92%E4%BB%B6%E5%BA%94%E7%94%A8%E8%AF%B4%E6%98%8E-L%E5%A4%A7%E3%80%902020.9.5%E3%80%91)
 
 ## 赞助/支持本项目：
 

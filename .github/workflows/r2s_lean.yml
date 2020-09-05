@@ -85,11 +85,14 @@ jobs:
           mv ../../scripts/autoupdate.sh package/base-files/files/root/au.sh && chmod +x package/base-files/files/root/au.sh
           echo -e '\nDYC Build\n' >> package/base-files/files/etc/banner
       - name: Build FriendlyWrt
+        run: . config/R2S/4_build_image.sh friendlywrt-rk3328 nanopi_r2s.mk
+
+      - name: Assemble Artifact
+        id: assemble_artifact
         run: |
-          cd friendlywrt-rk3328
-          sed -i 's/set -eu/set -u/' config/R2S/scripts/mk-friendlywrt.sh
-          ./build.sh nanopi_r2s.mk
-          cd .. && sudo bash config/R2S/fix_ownership.sh
+          . x_assemble_artifact.sh
+          release_tag="R2S-Lean-$(date +%Y-%m-%d)"
+          echo "##[set-output name=release_tag;]$release_tag"
           
       - name: Upload bin directory
         uses: actions/upload-artifact@main

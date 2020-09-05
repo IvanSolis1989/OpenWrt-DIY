@@ -81,7 +81,7 @@
 | :-----------------: | :-------------: |
 |<img src="img/alipay.jpg" width="150" height="150" alt="支付宝捐助"/><br/>|<img src="img/wepay.jpg" width="150" height="150" alt="微信捐助"/><br/>|
 
-## 鸣 谢
+## 鸣谢
 
 [P3TERX的Action源码](https://github.com/P3TERX/Actions-OpenWrt)
 

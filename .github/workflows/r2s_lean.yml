@@ -54,7 +54,7 @@ jobs:
           cd friendlywrt-rk3328
           . ../config/R2S/remove_unused_config.sh
           cat configs/config_rk3328 | grep "TARGET" >> ../config/R2S/base_rk3328.seed
-          cat ../app_config.seed >> ../config/R2S/base_rk3328.seed
+          cat ../config/R2S/app_config.seed >> ../config/R2S/base_rk3328.seed
           cat ../config/R2S/base_rk3328.seed > configs/config_rk3328
           echo '# CONFIG_V2RAY_COMPRESS_UPX is not set' >> configs/config_rk3328
           cd friendlywrt

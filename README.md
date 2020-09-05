@@ -55,6 +55,9 @@ Anti-AD 目前中文区命中率最高的广告过滤列表：
 OpenWrt网络共享文件和Transmission使用技巧，再也没有恼人的权限问题：
 <https://youtu.be/wmR7o9p9vSY>
 
+SD卡设备固件刷写程序 BalenaEtcher:
+<https://www.balena.io/etcher/>
+
 ## 赞助/支持本项目：
 
 **若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**

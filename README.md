@@ -61,11 +61,11 @@
 
 [基本编译教程](https://blog.csdn.net/Dreame_Architect/article/details/101527640)
 
-[WIN10内置ubuntu子系统编译教程](http://www.fuweijun.com/index.php/2019/07/03/win10%E5%AD%90linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E8%AF%91openwrt/)
+[WIN10 内置 Ubuntu 子系统编译教程](http://www.fuweijun.com/index.php/2019/07/03/win10%E5%AD%90linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E8%AF%91openwrt/)
 
-[Win10子系统Ubuntu18.04下编译openwrt问题及解决方法](https://blog.csdn.net/khaunag/article/details/104854536)
+[Win10 子系统 Ubuntu18.04 下编译 OpenWrt 问题及解决方法](https://blog.csdn.net/khaunag/article/details/104854536)
 
-[Ubuntu自带源更新慢可以参照这个页面换成清华大学镜像源](https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/)
+[Ubuntu 自带源更新慢可以参照这个页面换成清华大学镜像源](https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/)
 
 [Lean's OpenWrt 插件大全](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-%E7%BC%96%E8%AF%91-LuCI----Applications-%E6%B7%BB%E5%8A%A0%E6%8F%92%E4%BB%B6%E5%BA%94%E7%94%A8%E8%AF%B4%E6%98%8E-L%E5%A4%A7%E3%80%902020.9.5%E3%80%91)
 
@@ -83,6 +83,6 @@
 
 ## 鸣谢
 
-[P3TERX的Action源码](https://github.com/P3TERX/Actions-OpenWrt)
+[P3TERX 的 Action 源码](https://github.com/P3TERX/Actions-OpenWrt)
 
-[Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede)
+[Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)

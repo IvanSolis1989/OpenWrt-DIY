@@ -43,6 +43,14 @@
 7. 本项目在每周5中午12:00拉取Lean源码和第三方软件包项目自动编译，默认情况下固件每周编译一次 (config 文件更新时除外)，固件包含必要驱动及常用插件，或可根据网友需求调整，未逐一经过实机测试，故 **不保证 100% 可靠性**。
 8. 如有什么问题、需要增加编译设备或者编译文件配置需要调整的，**可以直接在Issues内留言。** 我会不定时的根据大家的要求修改**编译配置，插件选项，增加编译设备**等。
 
+## <p align="center">OpenWrt使用便利贴：</p>
+
+Anti-AD 目前中文区命中率最高的广告过滤列表：
+<https://github.com/privacy-protection-tools/anti-AD>
+
+OpenWrt网络共享文件和Transmission使用技巧，再也没有恼人的权限问题：
+<https://youtu.be/wmR7o9p9vSY>
+
 ## <p align="center">赞助/支持本项目：</p>
 
 **若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**
@@ -54,14 +62,6 @@
 |     支付宝   |   微信   | 
 | :-----------------: | :-------------: |
 |<img src="img/alipay.jpg" width="150" height="150" alt="支付宝捐助"/><br/>|<img src="img/wepay.jpg" width="150" height="150" alt="微信捐助"/><br/>|
-
-## <p align="center">OpenWrt使用便利贴：</p>
-
-Anti-AD 目前中文区命中率最高的广告过滤列表：
-<https://github.com/privacy-protection-tools/anti-AD>
-
-OpenWrt网络共享文件和Transmission使用技巧，再也没有恼人的权限问题：
-<https://youtu.be/wmR7o9p9vSY>
 
 ## <p align="center">鸣谢：</p>
 

@@ -32,7 +32,7 @@
 
 不建议直接Fork本项目，这样会造成GITHUB资源浪费，重复编译。需要固件的请直接下载即可。（固件不符合要求可以Issues内留言提意见）
 
-## <p align="center">注意事项：</p>
+## 注意事项：
 
 1. 点击上表中 “![](img/DL-orange.svg)” 即可跳转到该设备固件下载页面。
 2. 在固件编译完成后，会上传一份副本到 WeTransfer 和 奶牛快传，对于国内网络用户，为提高下载体验，可下载存放于这两个网站中的固件副本，副本下载地址位于固件下载页面中固件文件列表下的 Annotations 提示框内 (还是找不到？[点击这里](https://shop.io.mi-img.com/app/shop/img?id=shop_9e991a5edd21e997d44588bc376ca1e4.png)~) 。在极少数情况下，因网络原因这两份副本可能会上传失败，如果遇到这种情况，就只能下载存放在 Github Action 里的固件了:
@@ -43,7 +43,7 @@
 7. 本项目在每周5中午12:00拉取Lean源码和第三方软件包项目自动编译，默认情况下固件每周编译一次 (config 文件更新时除外)，固件包含必要驱动及常用插件，或可根据网友需求调整，未逐一经过实机测试，故 **不保证 100% 可靠性**。
 8. 如有什么问题、需要增加编译设备或者编译文件配置需要调整的，**可以直接在Issues内留言。** 我会不定时的根据大家的要求修改**编译配置，插件选项，增加编译设备**等。
 
-## <p align="center">OpenWrt使用便利贴：</p>
+## OpenWrt使用便利贴：
 
 Anti-AD 目前中文区命中率最高的广告过滤列表：
 <https://github.com/privacy-protection-tools/anti-AD>
@@ -51,19 +51,19 @@ Anti-AD 目前中文区命中率最高的广告过滤列表：
 OpenWrt网络共享文件和Transmission使用技巧，再也没有恼人的权限问题：
 <https://youtu.be/wmR7o9p9vSY>
 
-## <p align="center">赞助/支持本项目：</p>
+## 赞助/支持本项目：
 
 **若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**
 
 **你们的支持就是我的动力!**
 
-### <p align="center">捐助方式</p>
+### 捐助方式
 
 |     支付宝   |   微信   | 
 | :-----------------: | :-------------: |
 |<img src="img/alipay.jpg" width="150" height="150" alt="支付宝捐助"/><br/>|<img src="img/wepay.jpg" width="150" height="150" alt="微信捐助"/><br/>|
 
-## <p align="center">鸣谢：</p>
+## 鸣谢：
 
 P3TERX/Actions-OpenWrt:
 <https://github.com/P3TERX/Actions-OpenWrt>

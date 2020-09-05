@@ -18,7 +18,7 @@ on:
     branches:
       - main
     paths:
-      - 'config/Lean_Docker_LEDE_N1.config'
+      - '.github/workflows/r2s_lean.yml'
   schedule:
     - cron: 0 4 * * 5
   watch:

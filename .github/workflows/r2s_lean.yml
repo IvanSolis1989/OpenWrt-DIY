@@ -60,7 +60,7 @@ jobs:
       - name: Mods
         run: |
           cd friendlywrt-rk3328
-          . ../remove_unused_config.sh
+          . ../config/R2S/remove_unused_config.sh
           cat configs/config_rk3328 | grep "TARGET" >> ../config/R2S/base_rk3328.seed
           cat ../config/R2S/app_config.seed >> ../config/R2S/base_rk3328.seed
           cat ../config/R2S/base_rk3328.seed > configs/config_rk3328

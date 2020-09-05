@@ -59,7 +59,7 @@ OpenWrt网络共享文件和Transmission使用技巧，再也没有恼人的权�
 
 **若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**
 
-**你们的支持就是我的动力!**
+**你们的支持就是我的动力！**
 
 ### 捐助方式
 
@@ -69,8 +69,8 @@ OpenWrt网络共享文件和Transmission使用技巧，再也没有恼人的权�
 
 ## 鸣谢：
 
-P3TERX/Actions-OpenWrt:
+P3TERX/Actions-OpenWrt：
 <https://github.com/P3TERX/Actions-OpenWrt>
 
-Lean's OpenWrt source:
+Lean's OpenWrt source：
 <https://github.com/coolsnowwolf/lede>

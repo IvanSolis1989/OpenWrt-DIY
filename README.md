@@ -28,13 +28,13 @@
 | 13|      R2S     | [![](img/R2S-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+R2S+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20R2S%20OpenWrt?style=plastic) |[Friendly整合Lean源码](https://github.com/klever1988/nanopi-openwrt)  | ZIP文件解压后刷 |
 | 14|     小米 R3G     | [![](img/R3G-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+XIAOMI+R3G+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20XIAOMI%20R3G%20OpenWrt?style=plastic) |[Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede) |   |
 
-**提示：Passing绿色标志为正常，非Passing或全Falling并不代表均编译失败。请点击![](img/DL-orange.svg)到Actions进一步查看。**
+**提示：Passing 绿色标志为正常，非 Passing 或全 Falling 并不代表均编译失败。请点击![](img/DL-orange.svg)到 Actions 进一步查看。**
 
 本方案默认引用 Lean 的源码，因为他的 README 影响了我开始学习编译，也就有了这个项目，而且他的源码非常的优秀。
 
-也是希望动手能力强的朋友去学习编译，然后根据你自己的需要配置menuconfig，把配置好的config文件提交到本项目，本项目更可以根据使用者的需求扩充更多设备。
+也是希望动手能力强的朋友去学习编译，然后根据你自己的需要配置 menuconfig，把配置好的 config 文件提交到本项目，本项目更可以根据使用者的需求扩充更多设备。
 
-不建议直接Fork本项目，这样会造成GITHUB资源浪费，重复编译。需要固件的请直接下载即可。（固件不符合要求可以Issues内留言提意见）
+不建议直接Fork本项目，这样会造成GITHUB资源浪费，重复编译。需要固件的请直接下载即可。（固件不符合要求可以 Issues 内留言提意见）
 
 ## 注意事项
 

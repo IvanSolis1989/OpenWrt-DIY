@@ -24,7 +24,7 @@
 | 9 |     树莓派 3B/3B+   | [![](img/RaspBerryPi3-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+RaspBerryPi3+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20RaspBerryPi3%20OpenWrt?style=plastic) |[Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede)  | 含USB网卡驱动 |
 | 10 |      树莓派 4B      | [![](img/RaspBerryPi4-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+RaspBerryPi4+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20RaspBerryPi4%20OpenWrt?style=plastic) |[Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede)  | 含USB网卡驱动 |
 | 11 |      小娱C5      | [![](img/C5-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+XiaoYu+XY-C5+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20XiaoYu%20XY-C5%20OpenWrt) |[Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede)  |  |
-| 12|      R2S     | [![](img/R2S-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+R2S+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20R2S%20OpenWrt) |[Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede)  |  |
+| 12|      R2S     | [![](img/R2S-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+R2S+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20R2S%20OpenWrt) |[Friendlywrt源码](https://github.com/klever1988/nanopi-openwrt)  |  |
 
 **提示：Passing绿色标志为正常，全Falling并不代表所有项目编译失败。请到Actions进一步查看。**
 

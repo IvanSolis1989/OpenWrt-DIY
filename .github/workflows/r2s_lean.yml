@@ -1,0 +1,127 @@
+#
+# Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
+#
+# This is free software, licensed under the MIT License.
+# See /LICENSE for more information.
+#
+# https://github.com/P3TERX/Actions-OpenWrt
+# Description: Build OpenWrt using GitHub Actions
+#
+
+name: Build R2S OpenWrt
+
+on:
+  repository_dispatch:
+  release:
+    types: published
+  push:
+    branches:
+      - main
+    paths:
+      - 'config/Lean_Docker_LEDE_N1.config'
+  schedule:
+    - cron: 0 4 * * 5
+  watch:
+    types: started
+   
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+    if: github.repository == 'IvanSolis1989/OpenWrt-DIY'
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@main
+        with:
+          ref: main
+
+      - name: Initialization Environment
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run: . config/R2S/1_initialization_environment.sh
+
+      - name: Clone Source
+        run: . config/R2S/2_clone_rouce.sh
+
+      - name: Patch Kernel
+        run: . config/R2S/patch_kernel_5.4.sh
+
+      - name: Mods
+        run: |
+          cd friendlywrt-rk3328
+          . ../config/R2S/remove_unused_config.sh
+          cat configs/config_rk3328 | grep "TARGET" >> ../config/R2S/base_rk3328.seed
+          cat ../app_config.seed >> ../config/R2S/base_rk3328.seed
+          cat ../config/R2S/base_rk3328.seed > configs/config_rk3328
+          echo '# CONFIG_V2RAY_COMPRESS_UPX is not set' >> configs/config_rk3328
+          cd friendlywrt
+          git remote add upstream https://github.com/coolsnowwolf/openwrt && git fetch upstream
+          git checkout upstream/lede-17.01 -b tmp
+          #git checkout 33f7cb735300bd9a099995236ed768c8925fec75 -- target/linux/sunxi/image/
+          git rm README.md
+          git commit -m 'reset'
+          git checkout master-v19.07.1
+          git rebase adc1a9a3676b8d7be1b48b5aed185a94d8e42728^ --onto tmp -X theirs
+          rm -f target/linux/rockchip-rk3328/patches-4.14/0001-net-thunderx-workaround-BGX-TX-Underflow-issue.patch target/linux/generic/hack-4.14/999-net-patch-linux-kernel-to-support-shortcut-fe.patch
+          sed -i '/ipv6/,+3d' package/base-files/files/root/setup.sh
+          git checkout upstream/lede-17.01 -- feeds.conf.default
+          sed -i -E 's/#(src-git.+)(helloworld.+)/\1\2/' feeds.conf.default
+          cd package/lean/
+          rm -rf luci-theme-argon
+          . ../../../../config/R2S/3_prepare_packages.sh
+          cd ../../
+          git apply ../../config/R2S/enable_autocore.diff
+          #git apply ../../config/R2S/fix_cpufreq.diff
+          sed -i 's/@LINUX_5_4//' package/lean/luci-app-flowoffload/Makefile
+          sed -i '/uci commit luci/i\uci set luci.main.mediaurlbase="/luci-static/argon"' package/lean/default-settings/files/zzz-default-settings
+          sed -i '/exit/i\chown -R root:root /usr/share/netdata/web' package/lean/default-settings/files/zzz-default-settings
+          sed -i '/exit/i\find /etc/rc.d/ -name *docker* -delete' package/lean/default-settings/files/zzz-default-settings
+          sed -i 's/option fullcone\t1/option fullcone\t0/' package/network/config/firewall/files/firewall.config
+          sed -i '/8.8.8.8/d' package/base-files/files/root/setup.sh
+          mv ../../scripts/check_wan4.sh package/base-files/files/usr/bin && sed -i '/exit/i\/bin/sh /usr/bin/check_wan4.sh &' package/base-files/files/etc/rc.local
+          mv ../../scripts/autoupdate.sh package/base-files/files/root/au.sh && chmod +x package/base-files/files/root/au.sh
+          echo -e '\nDYC Build\n' >> package/base-files/files/etc/banner
+      - name: Build FriendlyWrt
+        run: |
+          cd friendlywrt-rk3328
+          sed -i 's/set -eu/set -u/' config/R2S/scripts/mk-friendlywrt.sh
+          ./build.sh nanopi_r2s.mk
+          cd .. && sudo bash config/R2S/fix_ownership.sh
+          
+    - name: Upload bin directory
+      uses: actions/upload-artifact@main
+      if: steps.compile.outputs.status == 'success' && env.UPLOAD_BIN_DIR == 'true'
+      with:
+        name: OpenWrt_bin${{ env.DEVICE_NAME }}${{ env.FILE_DATE }}
+        path: openwrt/bin
+
+    - name: Organize files
+      id: organize
+      if: env.UPLOAD_FIRMWARE == 'true' && !cancelled()
+      run: |
+        cd openwrt/bin/targets/*/*
+        rm -rf packages
+        echo "::set-env name=FIRMWARE::$PWD"
+        echo "::set-output name=status::success"
+    - name: Upload firmware directory
+      uses: actions/upload-artifact@main
+      if: steps.organize.outputs.status == 'success' && !cancelled()
+      with:
+        name: OpenWrt_firmware${{ env.DEVICE_NAME }}${{ env.FILE_DATE }}
+        path: ${{ env.FIRMWARE }}
+
+    - name: Upload firmware to cowtransfer
+      if: steps.organize.outputs.status == 'success' && env.UPLOAD_COWTRANSFER == 'true' && !cancelled()
+      run: |
+        curl -fsSL git.io/file-transfer | sh
+        ./transfer cow --block 2621440 -s -p 64 --no-progress ${FIRMWARE} 2>&1 | tee cowtransfer.log
+        echo "::warning file=cowtransfer.com::$(cat cowtransfer.log | grep https)"
+    - name: Upload firmware to WeTransfer
+      if: steps.organize.outputs.status == 'success' && env.UPLOAD_WETRANSFER == 'true' && !cancelled()
+      run: |
+        curl -fsSL git.io/file-transfer | sh
+        ./transfer wet -s -p 16 --no-progress ${FIRMWARE} 2>&1 | tee wetransfer.log
+        echo "::warning file=wetransfer.com::$(cat wetransfer.log | grep https)"

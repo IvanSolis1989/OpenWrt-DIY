@@ -26,7 +26,7 @@
 | 11 |      树莓派 4B      | [![](img/RaspBerryPi4-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+RaspBerryPi4+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20RaspBerryPi4%20OpenWrt?style=plastic) |[Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede)  | 含USB网卡驱动 |
 | 12 |      小娱C5      | [![](img/C5-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+XiaoYu+XY-C5+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20XiaoYu%20XY-C5%20OpenWrt?style=plastic) |[Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede)  |  |
 | 13|      R2S     | [![](img/R2S-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+R2S+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20R2S%20OpenWrt?style=plastic) |[Friendly整合Lean源码](https://github.com/klever1988/nanopi-openwrt)  | ZIP文件解压后刷 |
-| 14|     小米 R3G     | [![](R3G-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+XIAOMI+R3G+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20XIAOMI%20R3G%20OpenWrt?style=plastic) |Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede) |   |
+| 14|     小米 R3G     | [![](R3G-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+XIAOMI+R3G+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20XIAOMI%20R3G%20OpenWrt?style=plastic) |[Lean的OpenWrt源码](https://github.com/coolsnowwolf/lede) |   |
 
 **提示：Passing绿色标志为正常，非Passing或全Falling并不代表所有项目编译失败。请到Actions进一步查看。**
 

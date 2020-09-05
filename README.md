@@ -57,7 +57,7 @@
 
 [SD卡设备固件刷写程序 BalenaEtcher](https://www.balena.io/etcher/)
 
-### 本地编译相关教程
+### 本地编译相关
 
 [基本编译教程](https://blog.csdn.net/Dreame_Architect/article/details/101527640)
 

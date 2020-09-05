@@ -52,9 +52,7 @@
 
 **USB 无线网卡**
 
-推荐使用基于雷凌: RT3070(150Mbps)RT5370(150Mbps)/RT5572(300Mbps+600Mbps) 芯片;
-
-或基于 MT7612U(300Mbps+867Mbps) 芯片的 USB 无线网卡设备 (例如华硕 AC55、网件 A6210 等)。
+推荐使用基于雷凌: RT3070(150Mbps)RT5370(150Mbps)/RT5572(300Mbps+600Mbps) 芯片;或基于 MT7612U(300Mbps+867Mbps) 芯片的 USB 无线网卡设备 (例如华硕 AC55、网件 A6210 等)。
 
 ## OpenWrt小贴士
 

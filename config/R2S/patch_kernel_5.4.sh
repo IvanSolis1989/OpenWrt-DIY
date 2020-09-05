@@ -1,6 +1,6 @@
 cd friendlywrt-rk3328
 cd kernel/
-git apply ../../add_fullconenat.diff
+git apply ../../config/R2S/add_fullconenat.diff
 wget https://github.com/armbian/build/raw/master/patch/kernel/rockchip64-dev/RK3328-enable-1512mhz-opp.patch
 git apply RK3328-enable-1512mhz-opp.patch
 cd ../

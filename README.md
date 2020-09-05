@@ -63,7 +63,7 @@ P3TERX/Actions-OpenWrt:
 Lean's OpenWrt source:
 <https://github.com/coolsnowwolf/lede>
 
-OpenWrt-Rpi：
+OpenWrt-Rpi:
 <https://github.com/SuLingGG/OpenWrt-Rpi>
 
 1orz My-action:

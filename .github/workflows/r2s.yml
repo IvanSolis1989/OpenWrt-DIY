@@ -76,11 +76,6 @@ jobs:
 
     - name: Install feeds
       run: cd openwrt && ./scripts/feeds install -a
-  
-    - name: Enable Autocore
-      run: |
-        cd openwrt/
-        git apply config/Autocore.diff
         
     - name: Load custom configuration
       run: |

@@ -36,8 +36,8 @@ jobs:
 
   build:
 
-    runs-on: ubuntu-18.04
-    if: github.event.repository.owner.id == github.event.sender.id
+    runs-on: ubuntu-latest
+    if: github.repository == 'IvanSolis1989/OpenWrt-DIY'
 
     steps:
 
@@ -65,17 +65,16 @@ jobs:
           cat ../config/R2S/app_config.seed >> ../config/R2S/base_rk3328.seed
           cat ../config/R2S/base_rk3328.seed > configs/config_rk3328
           echo '# CONFIG_V2RAY_COMPRESS_UPX is not set' >> configs/config_rk3328
+          
           cd friendlywrt
           git remote add upstream https://github.com/coolsnowwolf/openwrt && git fetch upstream
           git checkout upstream/lede-17.01 -b tmp
-          #git checkout 33f7cb735300bd9a099995236ed768c8925fec75 -- target/linux/sunxi/image/
           git rm README.md
           git commit -m 'reset'
           git checkout master-v19.07.1
           git rebase adc1a9a3676b8d7be1b48b5aed185a94d8e42728^ --onto tmp -X theirs
           rm -f target/linux/rockchip-rk3328/patches-4.14/0001-net-thunderx-workaround-BGX-TX-Underflow-issue.patch target/linux/generic/hack-4.14/999-net-patch-linux-kernel-to-support-shortcut-fe.patch
-          git checkout upstream/lede-17.01 -- feeds.conf.default
-          sed -i -E 's/#(src-git.+)(helloworld.+)/\1\2/' feeds.conf.default
+          git checkout upstream/lede-17.01 -- feeds.conf.default && sed -i -E 's/#(src-git.+)(helloworld.+)/\1\2/' feeds.conf.default
           cd package/lean/
           rm -rf luci-theme-argon
           . ../../../../config/R2S/3_prepare_packages.sh
@@ -91,6 +90,12 @@ jobs:
           mv ../../scripts/autoupdate.sh package/base-files/files/root/au.sh && chmod +x package/base-files/files/root/au.sh
           echo -e '\nDYC Build\n' >> package/base-files/files/etc/banner
 
+      - name: Add OpenClash
+        run: . config/R2S/add_openclash.sh
+
+      - name: Add Passwall
+        run: . config/R2S/add_passwall.sh
+        
       - name: Build FriendlyWrt
         run: . config/R2S/4_build_image.sh friendlywrt-rk3328 nanopi_r2s.mk
 
@@ -98,25 +103,9 @@ jobs:
         id: assemble_artifact
         run: |
           . config/R2S/x_assemble_artifact.sh
-          echo "::set-env name=FIRMWARE::$PWD"
-          echo "::set-output name=status::success"
       
-      - name: Upload firmware directory
-        uses: actions/upload-artifact@main
-        if: steps.organize.outputs.status == 'success'
+      - name: Upload Artifact
+        uses: actions/upload-artifact@master
         with:
-          name: OpenWrt_firmware_NanoPi R2S${{ env.FILE_DATE }}
-          path: ${{ env.FIRMWARE }}
-
-      - name: Upload firmware to cowtransfer
-        if: steps.organize.outputs.status == 'success' && env.UPLOAD_COWTRANSFER == 'true'
-        run: |
-          curl -fsSL git.io/file-transfer | sh
-          ./transfer cow --block 2621440 -s -p 64 --no-progress ${FIRMWARE} 2>&1 | tee cowtransfer.log
-          echo "::warning file=cowtransfer.com::$(cat cowtransfer.log | grep https)"
-      - name: Upload firmware to WeTransfer
-        if: steps.organize.outputs.status == 'success' && env.UPLOAD_WETRANSFER == 'true'
-        run: |
-          curl -fsSL git.io/file-transfer | sh
-          ./transfer wet -s -p 16 --no-progress ${FIRMWARE} 2>&1 | tee wetransfer.log
-          echo "::warning file=wetransfer.com::$(cat wetransfer.log | grep https)"
+          name: FriendlyWrt_NanoPi-R2S RK3328 v19.07
+          path: ./artifact/

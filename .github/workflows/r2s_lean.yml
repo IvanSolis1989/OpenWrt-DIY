@@ -1,4 +1,4 @@
-name: Lean.OpenWRT-R2S
+name: Build NanoPi R2S OpenWrt
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    name: Build NanoPi R2S OpenWrt
+    name: Build OpenWRT
     runs-on: ubuntu-18.04
 
     steps:

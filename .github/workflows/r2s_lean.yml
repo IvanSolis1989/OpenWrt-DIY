@@ -4,8 +4,8 @@ name: Build NanoPi R2S OpenWrt
 on:
   schedule:
     - cron: '0 4 * * 5'
-#  watch:
-#     types: started
+  watch:
+    types: started
 
 jobs:
   build:
@@ -45,7 +45,6 @@ jobs:
       - name: Customization Configuration
         run: |
           cp config/R2S/All/CONFIG_R2S.ini lede/.config
-          chmod +x All/Customize.sh && sh All/Customize.sh
           
       - name: Build OpenWRT
         run: |

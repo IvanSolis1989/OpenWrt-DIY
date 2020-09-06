@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build XIAOMI R3G OpenWrt
+name: Build Mi R3G OpenWrt
 
 on:
   repository_dispatch:

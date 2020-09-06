@@ -79,7 +79,7 @@ jobs:
   
     - name: Enable Autocore
       run: |
-        cd lede/
+        cd openwrt/
         git apply ../config/Autocore.diff
         
     - name: Load custom configuration

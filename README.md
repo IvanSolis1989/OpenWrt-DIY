@@ -68,13 +68,13 @@
 
 ### 常用
 
+[OpenWrt 基础配置](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE)
+
 [Anti-AD 目前中文区命中率最高的广告过滤列表](https://github.com/privacy-protection-tools/anti-AD)
 
 [OpenWrt 网络共享文件和 Transmission 使用技巧，再也没有恼人的权限问题](https://youtu.be/wmR7o9p9vSY)
 
 [SD 卡设备固件刷写程序 BalenaEtcher](https://www.balena.io/etcher/)
-
-[OpenWrt 基础配置](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE)
 
 ### 本地编译相关
 

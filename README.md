@@ -2,7 +2,7 @@
 # [OpenWrt DIY — 多设备 OpenWrt 固件云编译](https://github.com/IvanSolis1989/OpenWrt-DIY)
 
 ![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY)       ![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY)       ![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY)
-[![编译状态](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build RaspBerryPi4 OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+RaspBerryPi4+OpenWrt%22) 
+[![编译状态](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20RaspBerryPi4%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+RaspBerryPi4+OpenWrt%22) 
 
 请 **认真阅读完毕** 本页面，本页面包含如何提升固件下载体验的内容。
 

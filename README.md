@@ -2,7 +2,7 @@
 # [OpenWrt DIY — 多设备 OpenWrt 固件云编译](https://github.com/IvanSolis1989/OpenWrt-DIY)
 
 ![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY)       ![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY)       ![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY)
-[![AutoBuild][12]][13]
+[![Build][12]][13]
 
 请 **认真阅读完毕** 本页面，本页面包含如何提升固件下载体验的内容。
 

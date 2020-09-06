@@ -7,7 +7,7 @@
 
 如果您未阅读完本页面，可能会遇到 **固件下载问题** ，若遇到问题，请 **返回此页面，认真完整阅读一遍** ~
 
-## <p align="center">—🔹支持设备、编译状态及固件下载🔹—</p>
+## <p align="center">🔹🔹🔹支持设备、编译状态及固件下载🔹🔹🔹</p>
 
 **点击下表中 [![](img/DL-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
 

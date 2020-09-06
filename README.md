@@ -70,9 +70,9 @@
 
 [Anti-AD 目前中文区命中率最高的广告过滤列表](https://github.com/privacy-protection-tools/anti-AD)
 
-[OpenWrt网络共享文件和Transmission使用技巧，再也没有恼人的权限问题](https://youtu.be/wmR7o9p9vSY)
+[OpenWrt 网络共享文件和 Transmission 使用技巧，再也没有恼人的权限问题](https://youtu.be/wmR7o9p9vSY)
 
-[SD卡设备固件刷写程序 BalenaEtcher](https://www.balena.io/etcher/)
+[SD 卡设备固件刷写程序 BalenaEtcher](https://www.balena.io/etcher/)
 
 ### 本地编译相关
 

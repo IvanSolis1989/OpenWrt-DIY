@@ -13,7 +13,7 @@
 
 |     序号    |     设备平台    |    编译状态及下载链接  |   源码地址 | 备注说明 |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 
-| 1 |    x86-64 (64位)    | [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20X86(64bit)%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22) | [Lean 源码](https://github.com/coolsnowwolf/lede)  |   |  
+| 1 |   ![](https://img.shields.io/badge/x86-64 (64位)-OpenWrt-random.svg) x86-64 (64位)    | [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20X86(64bit)%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22) | [Lean 源码](https://github.com/coolsnowwolf/lede)  |   |  
 | 2 |    x86 (32位)    |[![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20X86(32bit)%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2832bit%29+OpenWrt%22) |[Lean 源码](https://github.com/coolsnowwolf/lede) | | 
 | 3 |       竞斗云        |[![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20G-Dock%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+G-Dock+OpenWrt%22) |[Lean 源码](https://github.com/coolsnowwolf/lede) | | 
 | 4 |         K2        |[![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20K2%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+K2+OpenWrt%22)|[Lean 源码](https://github.com/coolsnowwolf/lede) | |

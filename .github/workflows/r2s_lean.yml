@@ -40,7 +40,7 @@ jobs:
       - name: Enable Autocore
         run: |
           cd lede/
-          git apply ../config/R2S/All/Autocore.diff
+          git apply ..config/R2S/All/Autocore.diff
   
       - name: Customization Configuration
         run: |

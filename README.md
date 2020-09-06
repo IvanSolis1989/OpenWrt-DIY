@@ -9,7 +9,7 @@
 
 ## <p align="center">—🔹支持设备、编译状态及固件下载🔹—</p>
 
-**点击下表中 ![](img/DL-orange.svg) 即可跳转到该设备固件下载页面** 
+**点击下表中 [![](img/DL-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
 
 |     序号    |     设备平台    |   下载链接   |   编译状态   | 源码地址 |备注说明 |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: |   :-----------------: | 
@@ -28,7 +28,7 @@
 | 13|      R2S     | [![](img/R2S-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+R2S+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20NanoPi%20R2S%20OpenWrt?style=plastic) |[Friendly 整合 Lean 源码](https://github.com/klever1988/nanopi-openwrt)  | 调试中 |
 | 14|     小米 R3G     | [![](img/R3G-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+XIAOMI+R3G+OpenWrt%22) | ![](https://img.shields.io/github/workflow/status/IvanSolis1989/OpenWrt-DIY/Build%20XIAOMI%20R3G%20OpenWrt?style=plastic) |[Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede) |   |
 
-**提示：Passing 绿色标志为正常，非 Passing 或全 Falling 并不代表均编译失败。请点击 ![](img/DL-orange.svg) 到 Actions 进一步查看。**
+**提示：Passing 绿色标志为正常，非 Passing 或全 Falling 并不代表均编译失败。请点击 [![](img/DL-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 到 Actions 进一步查看。**
 
 ## 🔸基本介绍🔸
 

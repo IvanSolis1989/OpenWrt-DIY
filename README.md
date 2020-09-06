@@ -11,7 +11,7 @@
 
 **点击下表中 [![](https://img.shields.io/badge/设备名称-passing-brightgreen.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
 
-|     序号    |     设备平台    |    编译状态及下载链接  |   源码地址 | 备注说明 |
+|     序号    |     设备平台    |    ![](https://img.shields.io/badge/编译状态及下载链接- -lightgrey.svg)  |   源码地址 | 备注说明 |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 
 | 1 |   ![](https://img.shields.io/badge/x86_64_(64位)-OpenWrt-lightgrey.svg)    | [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20X86(64bit)%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22) | [Lean 源码](https://github.com/coolsnowwolf/lede)  |   |  
 | 2 |    ![](https://img.shields.io/badge/x86_(32位)-OpenWrt-lightgrey.svg)     |[![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20X86(32bit)%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2832bit%29+OpenWrt%22) |[Lean 源码](https://github.com/coolsnowwolf/lede) | | 

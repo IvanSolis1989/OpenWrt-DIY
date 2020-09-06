@@ -1,111 +1,64 @@
-#
-# Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
-#
-# This is free software, licensed under the MIT License.
-# See /LICENSE for more information.
-#
-# https://github.com/P3TERX/Actions-OpenWrt
-# Description: Build OpenWrt using GitHub Actions
-#
-
-name: Build NanoPi R2S OpenWrt
+name: Lean.OpenWRT-R2S
 
 on:
-  repository_dispatch:
-  release:
-    types: published
-  push:
-    branches:
-      - main
-    paths:
-      - '.github/workflows/r2s_lean.yml'
   schedule:
-    - cron: 0 4 * * 5
+    - cron: '0 4 * * 6'
 #  watch:
-#    types: started
-
-env:
-  SSH_ACTIONS: false
-  UPLOAD_BIN_DIR: false
-  UPLOAD_FIRMWARE: true
-  UPLOAD_COWTRANSFER: true
-  UPLOAD_WETRANSFER: true
-  TZ: Asia/Shanghai
+#     types: started
 
 jobs:
-
   build:
-
-    runs-on: ubuntu-latest
-    if: github.repository == 'IvanSolis1989/OpenWrt-DIY'
+    name: Build NanoPi R2S OpenWrt
+    runs-on: ubuntu-18.04
 
     steps:
-
       - name: Checkout
         uses: actions/checkout@main
-        with:
-          ref: main
 
-      - name: Initialization Environment
+      - name: Init Environment
         env:
           DEBIAN_FRONTEND: noninteractive
-        run: . config/R2S/1_initialization_environment.sh
-
-      - name: Clone Source
-        run: . config/R2S/2_clone_rouce.sh master-v19.07.1 rk3328
-
-      - name: Patch Kernel
-        run: . config/R2S/patch_kernel_5.4.sh
-
-      - name: Mods
         run: |
-          cd friendlywrt-rk3328
-          . ../config/R2S/remove_unused_config.sh
-          cat configs/config_rk3328 | grep "TARGET" >> ../config/R2S/base_rk3328.seed
-          cat ../config/R2S/app_config.seed >> ../config/R2S/base_rk3328.seed
-          cat ../config/R2S/base_rk3328.seed > configs/config_rk3328
-          echo '# CONFIG_V2RAY_COMPRESS_UPX is not set' >> configs/config_rk3328
+          docker rmi `docker images -q`
+          sudo rm -rf /usr/share/dotnet /etc/mysql /etc/php /etc/apt/sources.list.d
+          sudo apt-get -y purge azure-cli ghc* zulu* hhvm llvm* firefox google* dotnet* powershell openjdk* mysql* php*
+          sudo apt-get update
+          sudo apt-get -y upgrade
+          sudo -E apt-get -y install build-essential asciidoc binutils bzip2 gawk gettext git libncurses5-dev libz-dev patch python3 unzip zlib1g-dev lib32gcc1 libc6-dev-i386 subversion flex uglifyjs gcc-multilib g++-multilib p7zip p7zip-full msmtp libssl-dev texinfo libglib2.0-dev xmlto qemu-utils upx libelf-dev autoconf automake libtool autopoint device-tree-compiler antlr3 gperf swig
+          sudo apt-get -y autoremove --purge
+          sudo apt-get clean
           
-          cd friendlywrt
-          git remote add upstream https://github.com/coolsnowwolf/openwrt && git fetch upstream
-          git checkout upstream/lede-17.01 -b tmp
-          git rm README.md
-          git commit -m 'reset'
-          git checkout master-v19.07.1
-          git rebase adc1a9a3676b8d7be1b48b5aed185a94d8e42728^ --onto tmp -X theirs
-          rm -f target/linux/rockchip-rk3328/patches-4.14/0001-net-thunderx-workaround-BGX-TX-Underflow-issue.patch target/linux/generic/hack-4.14/999-net-patch-linux-kernel-to-support-shortcut-fe.patch
-          git checkout upstream/lede-17.01 -- feeds.conf.default && sed -i -E 's/#(src-git.+)(helloworld.+)/\1\2/' feeds.conf.default
-          cd package/lean/
-          rm -rf luci-theme-argon
-          . ../../../../config/R2S/3_prepare_packages.sh
-          cd ../../
-          git apply ../../config/R2S/enable_autocore.diff
-          sed -i 's/@LINUX_5_4//' package/lean/luci-app-flowoffload/Makefile
-          sed -i '/uci commit luci/i\uci set luci.main.mediaurlbase="/luci-static/argon"' package/lean/default-settings/files/zzz-default-settings
-          sed -i '/exit/i\chown -R root:root /usr/share/netdata/web' package/lean/default-settings/files/zzz-default-settings
-          sed -i '/exit/i\find /etc/rc.d/ -name *docker* -delete' package/lean/default-settings/files/zzz-default-settings
-          sed -i 's/option fullcone\t1/option fullcone\t0/' package/network/config/firewall/files/firewall.config
-          sed -i '/8.8.8.8/d' package/base-files/files/root/setup.sh
-          mv ../../scripts/check_wan4.sh package/base-files/files/usr/bin && sed -i '/exit/i\/bin/sh /usr/bin/check_wan4.sh &' package/base-files/files/etc/rc.local
-          mv ../../scripts/autoupdate.sh package/base-files/files/root/au.sh && chmod +x package/base-files/files/root/au.sh
-          echo -e '\nDYC Build\n' >> package/base-files/files/etc/banner
-
-      - name: Add OpenClash
-        run: . config/R2S/add_openclash.sh
-
-      - name: Add Passwall
-        run: . config/R2S/add_passwall.sh
-        
-      - name: Build FriendlyWrt
-        run: . config/R2S/4_build_image.sh friendlywrt-rk3328 nanopi_r2s.mk
-
-      - name: Assemble Artifact
-        id: assemble_artifact
+      - name: Get Source Code
         run: |
-          . config/R2S/x_assemble_artifact.sh
-      
+          git clone https://github.com/coolsnowwolf/lede.git
+          cd lede/
+          sed -i 's/#src-git helloworld/src-git helloworld/g' feeds.conf.default
+          ./scripts/feeds update -a
+          ./scripts/feeds install -a
+          
+      - name: Enable Autocore
+        run: |
+          cd lede/
+          git apply ../config/R2S/All/Autocore.diff
+  
+      - name: Customization Configuration
+        run: |
+          cp config/R2S/All/CONFIG_R2S.ini lede/.config
+          chmod +x All/Customize.sh && sh All/Customize.sh
+          
+      - name: Build OpenWRT
+        run: |
+          cd lede/
+          make defconfig
+          make download -j8
+          find dl -size -1024c -exec rm -f {} \;
+          make -j$(nproc) || make -j1 V=s
+          
+      - name: Prepare Artifact
+        run: find lede/bin/targets/ -type d -name "packages" | xargs rm -rf {}
+          
       - name: Upload Artifact
         uses: actions/upload-artifact@master
         with:
-          name: FriendlyWrt_NanoPi-R2S RK3328 v19.07
-          path: ./artifact/
+          name: Lean.OpenWRT-R2S
+          path: lede/bin/targets/*/*/

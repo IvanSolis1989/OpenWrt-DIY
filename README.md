@@ -55,7 +55,7 @@
 
 **USB 有线网卡**
 
-推荐使用基于 AX88179（[绿联20256](https://item.jd.com/1205967.html)）或 RTL8153（[山泽UWH12](https://item.jd.com/100010398664.html)） 芯片的 USB 有线网卡设备。
+推荐使用基于 AX88179（[绿联20256](https://item.jd.com/1205967.html)）或 RTL8153（[山泽UW013](https://item.jd.com/6375404.html)） 芯片的 USB 有线网卡设备。
 
 **USB 无线网卡**
 

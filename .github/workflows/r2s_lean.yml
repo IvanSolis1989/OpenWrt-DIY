@@ -4,8 +4,8 @@ name: Build NanoPi R2S OpenWrt
 on:
   schedule:
     - cron: '0 4 * * 6'
-  watch:
-     types: started
+#  watch:
+#     types: started
 
 jobs:
   build:

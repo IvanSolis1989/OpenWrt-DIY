@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build K2 OpenWrt
+name: Build NanoPi R2S OpenWrt
 
 on:
   repository_dispatch:

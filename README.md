@@ -29,7 +29,7 @@
 | 14|      ![](https://img.shields.io/badge/NanoPi_R2S-OpenWrt-lightgrey.svg)     |  [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20NanoPi%20R2S%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+NanoPi+R2S+OpenWrt%22)  |[![](https://img.shields.io/badge/Lean-源码-orange.svg)](https://github.com/coolsnowwolf/lede)  | ZIP解压后刷写 |
 | 15|     ![](https://img.shields.io/badge/小米_R3G-OpenWrt-lightgrey.svg)   | [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20Mi%20R3G%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Mi+R3G+OpenWrt%22) |[![](https://img.shields.io/badge/Lean-源码-orange.svg)](https://github.com/coolsnowwolf/lede) |   |
 
-**提示：Passing 绿色标志为正常，非 Passing 或全 Falling 并不代表均编译失败。请点击 [![](https://img.shields.io/badge/设备名称-passing-brightgreen.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 到 Actions 进一步查看。**
+**提示：[![](https://img.shields.io/badge/设备名称-passing-brightgreen.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 标志为正常，[![](https://img.shields.io/badge/设备名称-falling-brightgreen.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 或 [![](https://img.shields.io/badge/设备名称-no_status-lightgrey.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 并不代表均编译失败。请点击 [![](https://img.shields.io/badge/设备名称-passing-brightgreen.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 到 Actions 进一步查看。**
 
 ## 🔸基本介绍🔸
 

@@ -9,7 +9,7 @@
 
 ## <p align="center">🔹🔹🔹支持设备、编译状态及固件下载🔹🔹🔹</p>
 
-**点击下表中 [![](img/passing.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
+**点击下表中 [![](https://img.shields.io/badge/设备名称-下载-brightgreen.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
 
 |     序号    |     设备平台    |    编译状态及下载链接  |   源码地址 | 备注说明 |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 

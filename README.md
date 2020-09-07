@@ -1,5 +1,7 @@
 # <p align="center"><img src="img/logo.png" width="300" alt="logo"/></p>  <p align="center">OpenWrt DIY — 多设备 OpenWrt 固件云编译</p>
 
+$\color{#FF2800}{O}$$\color{#FF5000}{p}$$\color{#FF7800}{e}$$\color{#FFA000}{n}$$\color{#FFC800}{W}$$\color{#FFF000}{r}$$\color{#D7FF00}{t}$ $\color{#AFFF00}{D}$$\color{#87FF00}{I}$$\color{#5FFF00}{Y}$ $\color{#37FF00}{—}$ $\color{#0FFF00}{多}$$\color{#00FF28}{设}$$\color{#00FF50}{备}$ $\color{#00FF78}{O}$$\color{#00FFA0}{p}$$\color{#00FFC8}{e}$$\color{#00FFF0}{n}$$\color{#00D7FF}{W}$$\color{#00AFFF}{r}$$\color{#0087FF}{t}$ $\color{#005FFF}{固}$$\color{#0037FF}{件}$$\color{#000FFF}{云}$$\color{#2800FF}{编}$$\color{#5000FF}{译}$
+
 [![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY)](https://github.com/IvanSolis1989/OpenWrt-DIY/issues)       [![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY)](https://github.com/IvanSolis1989/OpenWrt-DIY/stargazers)       [![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY)](https://github.com/IvanSolis1989/OpenWrt-DIY/network/members)
 
 请 **认真阅读完毕** 本页面，本页面包含如何提升固件下载体验的内容。

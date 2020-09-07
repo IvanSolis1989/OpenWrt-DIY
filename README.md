@@ -1,4 +1,4 @@
-# <p align="center"><img src="img/logo.png" width="300" alt="logo"/></p>  <p align="center">OpenWrt Diy— 多设备 OpenWrt 固件云编译</p>
+# <p align="center"><img src="img/logo.png" width="300" alt="logo"/></p>  <p align="center">OpenWrt DIY— 多设备 OpenWrt 固件云编译</p>
 
 &nbsp;[![](https://img.shields.io/badge/-基本介绍-C0C0C0.svg)](#基本介绍) [![](https://img.shields.io/badge/-注意事项-C0C0C0.svg)](#注意事项) [![](https://img.shields.io/badge/-USB网卡推荐-C0C0C0.svg)](#usb-网卡推荐) [![](https://img.shields.io/badge/-OpenWrt小贴士-C0C0C0.svg)](#openwrt-小贴士) [![](https://img.shields.io/badge/-赞助本项目-C0C0C0.svg)](#赞助支持本项目) [![](https://img.shields.io/badge/-鸣谢-C0C0C0.svg)](#鸣谢)
 

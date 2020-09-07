@@ -45,7 +45,7 @@
 
 ## 🔸最近更新🔸
 
-1. X86设备引入 Lienol 的 Packages，引入 Passwall 等插件（2020.9.7）；
+1. X86 等设备引入 Lienol 的 Packages，引入 Passwall 等插件（2020.9.7）；
 
 2. 引入 Argon 最新版主题包（2020.9.7）；
 

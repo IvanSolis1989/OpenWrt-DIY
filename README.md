@@ -1,4 +1,4 @@
-# <p align="center"><img src="img/logo_new.png" width="300" alt="logo"/></p>  <p align="center">OpenWrt DIY — 多设备 OpenWrt 固件云编译</p>
+# <p align="center"><img src="img/logo.png" width="300" alt="logo"/></p>  <p align="center">OpenWrt DIY — 多设备 OpenWrt 固件云编译</p>
 
 [![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY)](https://github.com/IvanSolis1989/OpenWrt-DIY/issues)       [![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY)](https://github.com/IvanSolis1989/OpenWrt-DIY/stargazers)       [![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY)](https://github.com/IvanSolis1989/OpenWrt-DIY/network/members)
 

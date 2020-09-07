@@ -6,7 +6,7 @@
 
 如果您未阅读完本页面，可能会遇到 **固件下载问题** ，若遇到问题，请 **返回此页面，认真完整阅读一遍** ~
 
-[![](https://img.shields.io/badge/基本-介绍-lightgrey.svg)](#🔸基本介绍🔸)
+[![](https://img.shields.io/badge/基本-介绍-lightgrey.svg)](#基本介绍)
 
 ## <p align="center">🔹🔹🔹支持设备、编译状态及固件下载🔹🔹🔹</p>
 

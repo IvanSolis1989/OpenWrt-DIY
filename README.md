@@ -1,6 +1,6 @@
 # <p align="center"><img src="img/logo.png" width="300" alt="logo"/></p>  <p align="center">OpenWrt DIY— 多设备 OpenWrt 固件云编译</p>
 
-&nbsp;&nbsp;[![](https://img.shields.io/badge/-目录-C0C0C0.svg)](#readme) [![](https://img.shields.io/badge/-基本介绍-C0C0C0.svg)](#基本介绍) [![](https://img.shields.io/badge/-最新更新-C0C0C0.svg)](#最新更新) [![](https://img.shields.io/badge/-注意事项-C0C0C0.svg)](#注意事项) [![](https://img.shields.io/badge/-USB网卡推荐-C0C0C0.svg)](#usb-网卡推荐) [![](https://img.shields.io/badge/-OpenWrt小贴士-C0C0C0.svg)](#openwrt-小贴士) [![](https://img.shields.io/badge/-赞助本项目-C0C0C0.svg)](#赞助支持本项目) [![](https://img.shields.io/badge/-鸣谢-C0C0C0.svg)](#鸣谢)
+&nbsp;&nbsp;[![](https://img.shields.io/badge/-目录-C0C0C0.svg)](#readme) [![](https://img.shields.io/badge/-基本介绍-C0C0C0.svg)](#基本介绍) [![](https://img.shields.io/badge/-最近更新-C0C0C0.svg)](#最近更新) [![](https://img.shields.io/badge/-注意事项-C0C0C0.svg)](#注意事项) [![](https://img.shields.io/badge/-USB网卡推荐-C0C0C0.svg)](#usb-网卡推荐) [![](https://img.shields.io/badge/-OpenWrt小贴士-C0C0C0.svg)](#openwrt-小贴士) [![](https://img.shields.io/badge/-赞助本项目-C0C0C0.svg)](#赞助支持本项目) [![](https://img.shields.io/badge/-鸣谢-C0C0C0.svg)](#鸣谢)
 
 请 **认真阅读完毕** 本页面，本页面包含如何提升固件下载体验的内容。
 
@@ -43,7 +43,7 @@
 
 5. 本项目旨在让更多朋友的设备能用上稳定且功能强大的 OpenWrt 固件，并保持持续更新。也希望动手能力强的朋友去学习编译（后文有教程），然后根据你自己的需要配置 menuconfig，把配置好的 config 文件提交到本项目，本项目更可以根据使用者的需求扩充更多设备。
 
-## 🔸最新更新🔸
+## 🔸最近更新🔸
 
 1. X86设备引入 Lienol 的 Packages，引入 Passwall 等插件；
 

@@ -1,6 +1,6 @@
 # <p align="center"><img src="img/logo.png" width="300" alt="logo"/></p>  <p align="center">OpenWrt DIY— 多设备 OpenWrt 固件云编译</p>
 
-&nbsp;&nbsp;[![](https://img.shields.io/badge/-目录-C0C0C0.svg)](#readme) ▪ [![](https://img.shields.io/badge/-基本介绍-C0C0C0.svg)](#基本介绍) [![](https://img.shields.io/badge/-注意事项-C0C0C0.svg)](#注意事项) [![](https://img.shields.io/badge/-USB网卡推荐-C0C0C0.svg)](#usb-网卡推荐) [![](https://img.shields.io/badge/-OpenWrt小贴士-C0C0C0.svg)](#openwrt-小贴士) [![](https://img.shields.io/badge/-赞助本项目-C0C0C0.svg)](#赞助支持本项目) [![](https://img.shields.io/badge/-鸣谢-C0C0C0.svg)](#鸣谢)
+&nbsp;&nbsp;[![](https://img.shields.io/badge/-目录-C0C0C0.svg)](#readme) [![](https://img.shields.io/badge/-基本介绍-C0C0C0.svg)](#基本介绍) [![](https://img.shields.io/badge/-注意事项-C0C0C0.svg)](#注意事项) [![](https://img.shields.io/badge/-USB网卡推荐-C0C0C0.svg)](#usb-网卡推荐) [![](https://img.shields.io/badge/-OpenWrt小贴士-C0C0C0.svg)](#openwrt-小贴士) [![](https://img.shields.io/badge/-赞助本项目-C0C0C0.svg)](#赞助支持本项目) [![](https://img.shields.io/badge/-鸣谢-C0C0C0.svg)](#鸣谢)
 
 请 **认真阅读完毕** 本页面，本页面包含如何提升固件下载体验的内容。
 

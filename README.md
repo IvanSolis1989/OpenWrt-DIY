@@ -6,7 +6,7 @@
 
 如果您未阅读完本页面，可能会遇到 **固件下载问题** ，若遇到问题，请 **返回此页面，认真完整阅读一遍** ~
 
-[![](https://img.shields.io/badge/基本-介绍-lightgrey.svg)](#基本介绍) [![](https://img.shields.io/badge/注意-事项-lightgrey.svg)](#注意事项) [![](https://img.shields.io/badge/USB网卡-推荐-lightgrey.svg)](#usb-网卡推荐) [![](https://img.shields.io/badge/OpenWrt-小贴士-lightgrey.svg)](#openwrt-小贴士) [![](https://img.shields.io/badge/赞助-本项目-lightgrey.svg)](#赞助支持本项目)
+[![](https://img.shields.io/badge/1.-基本介绍-red.svg)](#基本介绍) [![](https://img.shields.io/badge/2.-注意事项-red.svg)](#注意事项) [![](https://img.shields.io/badge/3.-USB网卡推荐-red.svg)](#usb-网卡推荐) [![](https://img.shields.io/badge/4.-OpenWrt小贴士-red.svg)](#openwrt-小贴士) [![](https://img.shields.io/badge/5.-赞助本项目-red.svg)](#赞助支持本项目)
 
 ## <p align="center">🔹🔹🔹支持设备、编译状态及固件下载🔹🔹🔹</p>
 

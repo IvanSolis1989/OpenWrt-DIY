@@ -93,8 +93,6 @@
 
 **若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**
 
-<font color="#FF2800">若</font><font color="#FF5000">您</font><font color="#FF7800">觉</font><font color="#FFA000">得</font><font color="#FFC800">好</font><font color="#FFF000">用</font><font color="#D7FF00">并</font><font color="#AFFF00">愿</font><font color="#87FF00">意</font><font color="#5FFF00">支</font><font color="#37FF00">持</font><font color="#0FFF00">本</font><font color="#00FF28">项</font><font color="#00FF50">目</font><font color="#00FF78">长</font><font color="#00FFA0">期</font><font color="#00FFC8">发</font><font color="#00FFF0">展</font><font color="#00D7FF">下</font><font color="#00AFFF">去</font><font color="#0087FF">。</font><font color="#005FFF">获</font><font color="#0037FF">得</font><font color="#000FFF">最</font><font color="#2800FF">佳</font><font color="#5000FF">的</font><font color="#7800FF">软</font><font color="#A000FF">路</font><font color="#C800FF">由</font><font color="#F000FF">使</font><font color="#FF00D7">用</font><font color="#FF00AF">体</font><font color="#FF0087">验</font><font color="#FF005F">，</font><font color="#FF0037">可</font><font color="#FF000F">以</font><font color="#FF0000">考</font><font color="#FF2800">虑</font><font color="#FF5000">捐</font><font color="#FF7800">助</font><font color="#FFA000">项</font><font color="#FFC800">目</font><font color="#FFF000">·</font><font color="#D7FF00">·</font><font color="#AFFF00">请</font><font color="#87FF00">作</font><font color="#5FFF00">者</font><font color="#37FF00">喝</font><font color="#0FFF00">杯</font><font color="#00FF28">咖</font><font color="#00FF50">啡</font><font color="#00FF78">~</font><font color="#00FFA0">~</font><font color="#00FFC8">~</font>
-
 **你们的支持就是我的动力！**
 
 ### 捐助方式

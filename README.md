@@ -107,4 +107,6 @@
 
 [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)
 
+[Lienol 的 OpenWrt 源码](https://github.com/Lienol/openwrt-packages)
+
 [![](https://img.shields.io/badge/-返回顶部-orange.svg)](#readme)

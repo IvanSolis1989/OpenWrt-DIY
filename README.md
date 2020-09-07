@@ -102,8 +102,12 @@
 | :-----------------: | :-------------: |
 |<img src="img/alipay.jpg" width="150" height="150" alt="支付宝捐助"/><br/>|<img src="img/wepay.jpg" width="150" height="150" alt="微信捐助"/><br/>|
 
-## 🔸鸣谢🔸
-
+<details>
+  <summary>## 🔸鸣谢🔸</summary>
+ 
 [P3TERX 的 Action 源码](https://github.com/P3TERX/Actions-OpenWrt)
 
 [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)
+</details>
+
+

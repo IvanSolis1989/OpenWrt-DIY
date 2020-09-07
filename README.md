@@ -108,4 +108,4 @@
 [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)
 
 
-<p align="center"> [返回顶部](#readme) </p>
+[返回顶部](#readme)

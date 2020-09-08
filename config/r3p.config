@@ -1,5 +1,5 @@
 #
-# Automatically generated file; DO NOT EDIT.
+# Automatically generated file; DO NOT EDIT. 
 # OpenWrt Configuration
 #
 CONFIG_MODULES=y

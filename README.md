@@ -128,5 +128,5 @@ OpenWrt DIY — 多设备固件云编译
 [![](https://img.shields.io/badge/-返回顶部-orange.svg)](#readme)
 
 <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=IvanSolis1989&hide=issues&show_icons=true" alt="图裂了😂需要机场才能正常显示" title="OpenWrt-DIY" align="center"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=IvanSolis1989&show_icons=true" alt="图裂了😂需要机场才能正常显示" title="OpenWrt-DIY" align="center"/>
 </a>

@@ -112,7 +112,7 @@ OpenWrt DIY — 多设备固件云编译
 
 ### 捐助方式
 
-|     支付宝   |    微信   | 
+|     ![](https://img.shields.io/badge/-支付宝-C0C0C0.svg)   |   ![](https://img.shields.io/badge/-微信-C0C0C0.svg)   | 
 | :-----------------: | :-------------: |
 |<img src="img/alipay.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|<img src="img/wepay.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|
 

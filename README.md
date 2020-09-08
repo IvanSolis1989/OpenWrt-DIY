@@ -1,5 +1,5 @@
 <a href="https://aimeos.org/">
-    <img src="img/logo.png" alt="图裂了😂需要机场才能正常显示" title="OpenWrt-DIY" align="right" height="150" />
+    <img src="img/logo.png" alt="图裂了😂需要机场才能正常显示" title="OpenWrt-DIY" align="right" height="160" />
 </a>
 
 OpenWrt DIY — 多设备固件云编译

@@ -1,0 +1,5 @@
+Flask
+pybadges
+gunicorn
+requests
+python-dotenv

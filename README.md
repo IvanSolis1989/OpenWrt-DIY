@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=OpenWrt-DIY-visitor-badge) [![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/issues) [![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/stargazers) [![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/network/members) 
 <a href="#">
-    <img src="https://i.loli.net/2020/09/09/W5uvtnTHJwOKL2i.jpg" alt="图裂了😂需要机场才能正常显示" title="OpenWrt-DIY" align="right" height="160" />
+    <img src="https://img.vim-cn.com/48/6e4b91fdeefa201f93befdf858a13eefeaff5c.jpg" alt="图裂了😂需要机场才能正常显示" title="OpenWrt-DIY" align="right" height="160" />
 </a>
 
 OpenWrt DIY — 多设备固件云编译
@@ -60,7 +60,7 @@ OpenWrt DIY — 多设备固件云编译
 1. 在固件编译完成后，会上传一份副本到 WeTransfer 和 奶牛快传，对于国内网络用户，为提高下载体验，可下载存放于这两个网站中的固件副本，副本下载地址位于固件下载页面中固件文件列表下的 Annotations 提示框内；
 <details>
  <summary>&nbsp;&nbsp;&nbsp;（还是找不到？点击这里！）</summary>
-<img src="https://i.loli.net/2020/09/09/vUEz4XJeZ1S3kRm.png" alt="图裂了😂需要机场才能正常显示"/><br/>
+<img src="https://img.vim-cn.com/c3/d67668400c0433d0b6bf0b0a594a03a7d4d7cc.png" alt="图裂了😂需要机场才能正常显示"/><br/>
 </details>
 
 2. 在极少数情况下，因网络原因这两份副本可能会上传失败，如果遇到这种情况，就只能下载存放在 Github Action 里的固件了，由于 Github Action 限制，需要登录 Github 账号才可下载存放于 Github Action 中的固件 **(未登录时固件链接不可被点击)**，但 WeTransfer 和 奶牛快传 的固件下载链接在未登录状态下可正常查看，不受影响；
@@ -115,7 +115,7 @@ OpenWrt DIY — 多设备固件云编译
 
 |     <img src="https://img.shields.io/badge/-支付宝-F5F5F5.svg" height="25" alt="图裂了😂需要机场才能正常显示"/><br/>  |  <img src="https://img.shields.io/badge/-微信-F5F5F5.svg" height="25" alt="图裂了😂需要机场才能正常显示"/><br/>  | 
 | :-----------------: | :-------------: |
-|<img src="https://i.loli.net/2020/09/09/XVjAJwxY59kcGyn.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|<img src="https://i.loli.net/2020/09/09/lmsjSYEw352zJia.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|
+|<img src="https://img.vim-cn.com/9a/e01f8ce683df8ead000b30a018b5d37436a26b.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|<img src=" https://img.vim-cn.com/57/08badfc052c5c5171a5931a2dca4a288f32266.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|
 
 ## 鸣谢 ![](https://img.shields.io/badge/-鸣谢-F5F5F5.svg)
  

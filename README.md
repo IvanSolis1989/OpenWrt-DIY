@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=OpenWrt-DIY-visitor-badge?Color=C0C0C0) ![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY?Color=C0C0C0) ![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY?Color=C0C0C0) ![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY?Color=C0C0C0) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=OpenWrt-DIY-visitor-badge) ![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY?Color=C0C0C0) ![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY?Color=C0C0C0) ![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY?Color=C0C0C0) 
 
 <a href="#">
     <img src="img/logo.png" alt="图裂了😂需要机场才能正常显示" title="OpenWrt-DIY" align="right" height="160" />

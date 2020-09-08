@@ -115,7 +115,7 @@ OpenWrt DIY — 多设备固件云编译
 
 |     <img src="https://img.shields.io/badge/-支付宝-F5F5F5.svg" height="25" alt="图裂了😂需要机场才能正常显示"/><br/>  |  <img src="https://img.shields.io/badge/-微信-F5F5F5.svg" height="25" alt="图裂了😂需要机场才能正常显示"/><br/>  | 
 | :-----------------: | :-------------: |
-|<img src="https://img.vim-cn.com/9a/e01f8ce683df8ead000b30a018b5d37436a26b.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|<img src="https://img.vim-cn.com/57/08badfc052c5c5171a5931a2dca4a288f32266.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|
+|<img src="https://img.vim-cn.com/24/8c86e483e945f14aeb96662270d4f320a9ed5d.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|<img src="https://img.vim-cn.com/c1/e41cd8fde8f5a863f4d3cdac6f23840d398e01.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|
 
 ## 鸣谢 ![](https://img.shields.io/badge/-鸣谢-F5F5F5.svg)
  

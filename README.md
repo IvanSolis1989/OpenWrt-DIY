@@ -2,8 +2,6 @@
     <img src="img/logo.png" alt="图裂了😂需要机场才能正常显示" title="OpenWrt-DIY" align="right" height="160" />
 </a>
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${OpenWrt-DIY})
-
 OpenWrt DIY — 多设备固件云编译
 ======================
 

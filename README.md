@@ -1,9 +1,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=OpenWrt-DIY-visitor-badge) [![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/issues) [![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/stargazers) [![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/network/members) 
-
 <a href="#">
     <img src="img/logo.png" alt="图裂了😂需要机场才能正常显示" title="OpenWrt-DIY" align="right" height="160" />
 </a>
-
 OpenWrt DIY — 多设备固件云编译
 ======================
 

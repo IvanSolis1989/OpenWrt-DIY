@@ -36,7 +36,7 @@ OpenWrt DIY — 多设备固件云编译
 
 **提示：[![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 标志为正常，[![](https://img.shields.io/badge/设备-failing-FF0000.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 或 [![](https://img.shields.io/badge/设备-no_status-A9A9A9.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 不代表所有编译均失败。请点击 [![](https://img.shields.io/badge/设备-状态-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 到 Actions 进一步查看。**
 
-## 🔸基本介绍🔸[![](https://img.shields.io/badge/-基本介绍-C0C0C0.svg)](#基本介绍)
+## 基本介绍 [![](https://img.shields.io/badge/-基本介绍-C0C0C0.svg)](#基本介绍)
 
 1. 本方案默认引用 Lean 的源码（部分设备整合 Lienol 软件包），因为他的 README 影响了我开始学习编译，也就有了这个项目，而且他的源码非常的优秀；
 
@@ -48,13 +48,13 @@ OpenWrt DIY — 多设备固件云编译
 
 5. 本项目旨在让更多朋友的设备能用上稳定且功能强大的 OpenWrt 固件，并保持持续更新。也希望动手能力强的朋友去学习编译（后文有教程），然后根据你自己的需要配置 menuconfig，把配置好的 config 文件提交到本项目，本项目更可以根据使用者的需求扩充更多设备。
 
-## 🔸最近更新🔸
+## 最近更新 [![](https://img.shields.io/badge/-最近更新-C0C0C0.svg)](#最近更新)
 
 1. 引入 Lienol 的 Packages，引入 Passwall 等插件（部分设备因为容量限制没有添加——2020.9.7）；
 
 2. 引入 Argon 最新版主题包（2020.9.7）；
 
-## 🔸注意事项🔸
+## 注意事项 [![](https://img.shields.io/badge/-注意事项-C0C0C0.svg)](#注意事项)
 
 1. 在固件编译完成后，会上传一份副本到 WeTransfer 和 奶牛快传，对于国内网络用户，为提高下载体验，可下载存放于这两个网站中的固件副本，副本下载地址位于固件下载页面中固件文件列表下的 Annotations 提示框内；
 <details>
@@ -66,7 +66,7 @@ OpenWrt DIY — 多设备固件云编译
 
 3. 如果需要下载存放于 Github Action 上的固件，由于众所周知的原因，请尽量使用科学上网方式下载固件，固件下载完成后，请下载 sha256sums 文件或使用压缩软件的 "测试压缩文件" 功能来验证固件的完整性。
 
-## 🔸USB 网卡推荐🔸
+## USB 网卡推荐 [![](https://img.shields.io/badge/-USB网卡推荐-C0C0C0.svg)](#usb-网卡推荐)
 
 **USB 有线网卡**
 
@@ -80,7 +80,7 @@ OpenWrt DIY — 多设备固件云编译
 
 **备注**：个人不建议在软路由设备上用 USB 外接无线网卡，信号强度、稳定性都比较弱。
 
-## 🔸OpenWrt 小贴士🔸
+## OpenWrt 小贴士 [![](https://img.shields.io/badge/-OpenWrt小贴士-C0C0C0.svg)](#openwrt-小贴士)
 
 ### 常用
 
@@ -104,7 +104,7 @@ OpenWrt DIY — 多设备固件云编译
 
 [Lean's OpenWrt 插件大全](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/Lean‘s-OpenWrt-——LuCI-Applications-插件说明)
 
-## 🔸赞助/支持本项目🔸
+## 赞助/支持本项目 [![](https://img.shields.io/badge/-赞助本项目-C0C0C0.svg)](#赞助支持本项目)
 
 **若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**
 
@@ -116,7 +116,7 @@ OpenWrt DIY — 多设备固件云编译
 | :-----------------: | :-------------: |
 |<img src="img/alipay.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|<img src="img/wepay.jpg" width="150" height="150" alt="图裂了😂需要机场才能正常显示"/><br/>|
 
-## 🔸鸣谢🔸
+## 鸣谢 [![](https://img.shields.io/badge/-鸣谢-C0C0C0.svg)](#鸣谢)
  
 [P3TERX 的 Action 源码](https://github.com/P3TERX/Actions-OpenWrt)
 

@@ -84,9 +84,6 @@ OpenWrt DIY — 多设备固件云编译
 <details>
  <summary><b>常用</b></summary>
 
-
-
-
 [OpenWrt 基础配置](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE)
 
 [最好的 OpenWrt 路由器 shadowsocks 自动翻墙、科学上网教程](https://github.com/softwaredownload/openwrt-fanqiang)
@@ -104,10 +101,7 @@ OpenWrt DIY — 多设备固件云编译
 </details>
 
 <details>
- <summary>本地编译相关</summary>
-
-
-
+ <summary><b>本地编译相关</b></summary>
 
 [基本编译教程](https://blog.csdn.net/Dreame_Architect/article/details/101527640)
 

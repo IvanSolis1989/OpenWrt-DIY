@@ -85,7 +85,7 @@ OpenWrt DIY — 多设备固件云编译
 
 [OpenWrt 基础配置](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE)
 
-[最好的 OpenWrt 路由器 shadowsocks 自动翻墙、科学上网教程](https://github.com/IvanSolis1989/openwrt-fanqiang)
+[最好的 OpenWrt 路由器 shadowsocks 自动翻墙、科学上网教程](https://github.com/softwaredownload/openwrt-fanqiang)
 
 [Anti-AD 目前中文区命中率最高的广告过滤列表](https://github.com/privacy-protection-tools/anti-AD)
 

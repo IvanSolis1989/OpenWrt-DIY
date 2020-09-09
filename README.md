@@ -82,7 +82,7 @@ OpenWrt DIY — 多设备固件云编译
 ## OpenWrt 小贴士 [![](https://img.shields.io/badge/-OpenWrt小贴士-F5F5F5.svg)](#openwrt-小贴士-)
 
 <details>
- <summary>常用</summary>
+ <summary><b>常用</b></summary>
 
 
 

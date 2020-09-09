@@ -57,7 +57,7 @@ OpenWrt DIY — 多设备固件云编译
 
 1. 在固件编译完成后，会上传一份副本到 WeTransfer 和 奶牛快传，对于国内网络用户，为提高下载体验，可下载存放于这两个网站中的固件副本，副本下载地址位于固件下载页面中固件文件列表下的 Annotations 提示框内；
 <details>
- <summary>&nbsp;&nbsp;&nbsp;（还是找不到？点击这里！）</summary>
+ <summary>&nbsp;&nbsp;&nbsp;还是找不到？点击这里！</summary>
 <img src="https://img.vim-cn.com/c3/d67668400c0433d0b6bf0b0a594a03a7d4d7cc.png" alt="图裂了😂需要机场才能正常显示"/><br/>
 </details>
 

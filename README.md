@@ -87,6 +87,8 @@ OpenWrt DIY — 多设备固件云编译
 
 [最好的 OpenWrt 路由器 shadowsocks 自动翻墙、科学上网教程](https://github.com/softwaredownload/openwrt-fanqiang)
 
+[免费机场节点获取](https://github.com/hugetiny/awesome-vpn/blob/master/READMECN.md)
+
 [Anti-AD 目前中文区命中率最高的广告过滤列表](https://github.com/privacy-protection-tools/anti-AD)
 
 [OpenWrt 网络共享文件和 Transmission 使用技巧，再也没有恼人的权限问题](https://youtu.be/wmR7o9p9vSY)

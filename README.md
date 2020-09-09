@@ -81,7 +81,8 @@ OpenWrt DIY — 多设备固件云编译
 
 ## OpenWrt 小贴士 [![](https://img.shields.io/badge/-OpenWrt小贴士-F5F5F5.svg)](#openwrt-小贴士-)
 
-### 常用
+<details>
+ <summary>常用</summary>
 
 [OpenWrt 基础配置](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE)
 
@@ -97,7 +98,10 @@ OpenWrt DIY — 多设备固件云编译
 
 [SD 卡设备固件刷写程序 BalenaEtcher](https://www.balena.io/etcher/)
 
-### 本地编译相关
+</details>
+
+<details>
+ <summary>本地编译相关</summary>
 
 [基本编译教程](https://blog.csdn.net/Dreame_Architect/article/details/101527640)
 
@@ -108,6 +112,8 @@ OpenWrt DIY — 多设备固件云编译
 [Ubuntu 默认源更新慢可更换清华大学镜像源](https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/)
 
 [Lean's OpenWrt 插件大全](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/Lean‘s-OpenWrt-——LuCI-Applications-插件说明)
+
+</details>
 
 ## 赞助/支持本项目 [![](https://img.shields.io/badge/-赞助本项目-F5F5F5.svg)](#赞助支持本项目-)
 

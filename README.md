@@ -154,5 +154,5 @@ OpenWrt DIY — 多设备固件云编译
 [Lienol 的 Packages 源码](https://github.com/Lienol/openwrt-packages)
 
 <a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="center"/>
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>

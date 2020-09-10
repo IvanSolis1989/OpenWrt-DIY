@@ -12,7 +12,10 @@ OpenWrt DIY — 多设备固件云编译
 
 如果您未阅读完本页面，可能会遇到 **固件下载问题** ，若遇到问题，请 **返回此页面，认真完整阅读一遍** ~
 
-## <p align="center"><img src="https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg" height="40" alt="图裂了😂"/></p>
+<a href="#">
+    <img src="img src="https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg" height="40" alt="图裂了😂" title="OpenWrt-DIY" align="center" height="40" />
+</a>
+---------------------                                                                                                                                                      
 
 **点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
 

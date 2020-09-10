@@ -89,15 +89,9 @@ OpenWrt DIY — 多设备固件云编译
 ## OpenWrt 小贴士 [![](https://img.shields.io/badge/-OpenWrt小贴士-F5F5F5.svg)](#openwrt-小贴士-)
 
 <details>
- <summary><b>常用</b></summary>
+ <summary><b>基础常用</b></summary>
 
 [OpenWrt 基础配置](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE)
-
-[最好的 OpenWrt 路由器 shadowsocks 自动翻墙、科学上网教程](https://github.com/softwaredownload/openwrt-fanqiang)
-
-[翻墙软件 VPN 推荐指南（含 2020 优惠）](https://github.com/vpncn/vpncn.github.io)
-
-[免费机场节点获取](https://github.com/hugetiny/awesome-vpn/blob/master/READMECN.md)
 
 [OpenWrt 网络共享文件和 Transmission 使用技巧，再也没有恼人的权限问题](https://youtu.be/wmR7o9p9vSY)
 
@@ -105,6 +99,16 @@ OpenWrt DIY — 多设备固件云编译
 
 </details>
 
+<details>
+ <summary><b>不可描述</b></summary>
+
+[最好的 OpenWrt 路由器 shadowsocks 自动翻墙、科学上网教程](https://github.com/softwaredownload/openwrt-fanqiang)
+
+[翻墙软件 VPN 推荐指南（含 2020 优惠）](https://github.com/vpncn/vpncn.github.io)
+
+[免费机场节点获取](https://github.com/hugetiny/awesome-vpn/blob/master/READMECN.md)
+
+</details>
 
 <details>
  <summary><b>Anti-AD 目前中文区命中率最高的广告过滤列表</b></summary>
@@ -126,7 +130,7 @@ OpenWrt DIY — 多设备固件云编译
 </details>
 
 <details>
- <summary><b>本地编译相关</b></summary>
+ <summary><b>本地编译</b></summary>
 
 [基本编译教程](https://blog.csdn.net/Dreame_Architect/article/details/101527640)
 

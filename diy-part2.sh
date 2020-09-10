@@ -29,6 +29,13 @@ rm -rf autocore
 svn co https://github.com/project-openwrt/openwrt/branches/18.06-kernel5.4/package/lean/autocore
 popd
 
+# Add mentohust & luci-app-mentohust.
+git clone --depth=1 https://github.com/BoringCat/luci-app-mentohust
+git clone --depth=1 https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk
+
+# Add ServerChan
+git clone --depth=1 https://github.com/tty228/luci-app-serverchan
+
 # Add OpenClash
 git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 
@@ -43,6 +50,11 @@ svn co https://github.com/Lienol/openwrt/trunk/package/diy/adguardhome
 git clone --depth=1 https://github.com/lisaac/luci-app-diskman
 mkdir parted
 cp luci-app-diskman/Parted.Makefile parted/Makefile
+
+# Add luci-app-dockerman
+rm -rf ../lean/luci-app-docker
+git clone --depth=1 https://github.com/KFERMercer/luci-app-dockerman
+git clone --depth=1 https://github.com/lisaac/luci-lib-docker
 
 # Add luci-app-gowebdav
 git clone --depth=1 https://github.com/project-openwrt/openwrt-gowebdav

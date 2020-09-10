@@ -111,21 +111,10 @@ OpenWrt DIY — 多设备固件云编译
 </details>
 
 <details>
- <summary><b>Anti-AD 目前中文区命中率最高的广告过滤列表</b></summary>
+ <summary><b>广告屏蔽</b></summary>
 
-#### 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
+[anti-AD 中文区命中率最高的广告过滤列表](https://github.com/privacy-protection-tools/anti-AD)
 
-使用anti-AD能够屏蔽广告域名，能屏蔽电视盒子广告，屏蔽app内置广告，同时屏蔽了一些日志收集、大数据统计等涉及个人隐私信息的站点，能够保护个人隐私不被偷偷上传。
-
-**快速使用(使用官网地址，速度更稳定)**
-
-| 文件 	| raw 	| 官网地址 	| 适用于 	|
-| --------------------------------	|:------------------:	| ----------------	|---------------------------------------------	|
-| `adblock-for-dnsmasq.conf` 	| [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/adblock-for-dnsmasq.conf) 	| [官网地址，更稳定](https://anti-ad.net/anti-ad-for-dnsmasq.conf) 	| dnsmasq及其衍生版本 	|
-| `anti-ad-easylist.txt` 	| [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt) 	| [官网地址，更稳定](https://anti-ad.net/easylist.txt)	| AdGuardHome 	|
-| `anti-ad-domains.txt` 	| [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt) 	| [官网地址，更稳定](https://anti-ad.net/domains.txt)	| Pi-Hole或其他。 	|
-| `anti-ad-surge.txt` 	| [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt) 	| [官网地址，更稳定](https://anti-ad.net/surge.txt)	| Surge或其他工具。 	|
-| `anti-ad-smartdns.conf` 	| [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-smartdns.conf) 	| [官网地址，更稳定](https://anti-ad.net/anti-ad-for-smartdns.conf) | SmartDNS 	|
 
 </details>
 
@@ -163,7 +152,5 @@ OpenWrt DIY — 多设备固件云编译
 [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)
 
 [Lienol 的 Packages 源码](https://github.com/Lienol/openwrt-packages)
-
-[anti-AD 项目](https://github.com/privacy-protection-tools/anti-AD)
 
 [![](https://img.shields.io/badge/-返回顶部-orange.svg)](#readme)

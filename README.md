@@ -87,7 +87,7 @@ OpenWrt DIY — 多设备固件云编译
 **备注**：个人不建议在软路由设备上用 USB 外接无线网卡，信号强度、稳定性都比较弱。
 
 ## OpenWrt 小贴士 [![](https://img.shields.io/badge/-OpenWrt小贴士-F5F5F5.svg)](#openwrt-小贴士-)
-<br/>
+
 <details>
  <summary><b>基础常用</b></summary>
 
@@ -101,7 +101,7 @@ OpenWrt DIY — 多设备固件云编译
 
 <details>
  <summary><b>不可描述</b></summary>
-<br/>
+
 [最好的 OpenWrt 路由器 shadowsocks 自动翻墙、科学上网教程](https://github.com/softwaredownload/openwrt-fanqiang)
 
 [翻墙软件 VPN 推荐指南（含 2020 优惠）](https://github.com/vpncn/vpncn.github.io)
@@ -109,7 +109,7 @@ OpenWrt DIY — 多设备固件云编译
 [免费机场节点获取](https://github.com/hugetiny/awesome-vpn/blob/master/READMECN.md)
 
 </details>
-<br/>
+
 <details>
  <summary><b>广告屏蔽</b></summary>
 
@@ -119,7 +119,7 @@ OpenWrt DIY — 多设备固件云编译
 
 <details>
  <summary><b>本地编译</b></summary>
-<br/>
+
 [基本编译教程](https://blog.csdn.net/Dreame_Architect/article/details/101527640)
 
 [WIN10 内置 Ubuntu 子系统编译教程](http://www.fuweijun.com/index.php/2019/07/03/win10%E5%AD%90linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E8%AF%91openwrt/)

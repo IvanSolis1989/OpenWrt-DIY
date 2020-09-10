@@ -1,9 +1,1 @@
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  watch:
-    types: started
-
 theme: jekyll-theme-cayman

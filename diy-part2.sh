@@ -106,9 +106,3 @@ pushd ../feeds/packages/libs
 rm -rf libssh
 svn co https://github.com/openwrt/packages/trunk/libs/libssh
 popd
-
-# Fix mt76 wireless driver
-pushd ../package/kernel/mt76
-rm -f Makefile
-wget https://raw.githubusercontent.com/openwrt/openwrt/master/package/kernel/mt76/Makefile
-popd

@@ -64,7 +64,9 @@ OpenWrt DIY — 多设备固件云编译
 <img src="https://img.vim-cn.com/4f/84294e248881f5bce4fc8a379a63322935dafd.png" alt="图裂了😂需要机场才能正常显示"/><br/>    
 </details>
 
-3. 去掉 K2 的支持，因为只有 8M ROM 容量，实在是放不进去什么功能。 
+3. 去掉 K2 的支持，因为只有 8M ROM 容量，实在是放不进去什么功能。
+
+4. 新增极路由 B70 支持。
 
 ## 注意事项 [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-)
 

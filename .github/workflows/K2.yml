@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build K2 OpenWrt
+name: Build HiWiFi B70 OpenWrt
 
 on:
   repository_dispatch:
@@ -18,7 +18,7 @@ on:
     branches:
       - main
     paths:
-      - 'config/k2.config'
+      - 'config/B70.config'
   schedule:
     - cron: 0 4 * * 5
 #  watch:
@@ -28,7 +28,7 @@ env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: config/k2.config
+  CONFIG_FILE: config/B70.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   SSH_ACTIONS: false

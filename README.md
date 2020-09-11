@@ -64,6 +64,8 @@ OpenWrt DIY — 多设备固件云编译
 <img src="https://img.vim-cn.com/4f/84294e248881f5bce4fc8a379a63322935dafd.png" alt="图裂了😂需要机场才能正常显示"/><br/>    
 </details>
 
+3. 去掉 K2 的支持，因为只有 8M ROM 容量，实在是放不进去什么功能。 
+
 ## 注意事项 [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-)
 
 1. 在固件编译完成后，会上传一份副本到 WeTransfer 和 奶牛快传，对于国内网络用户，为提高下载体验，可下载存放于这两个网站中的固件副本，副本下载地址位于固件下载页面中固件文件列表下的 Annotations 提示框内；

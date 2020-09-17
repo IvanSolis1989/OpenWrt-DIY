@@ -61,8 +61,8 @@ OpenWrt DIY — 多设备固件云编译
    
 <br/>
     
-<img src="https://img.vim-cn.com/88/5f7f72f0cde6df076c12c6259f98b28870f6e3.png" alt="图裂了😂需要机场才能正常显示"/><br/>
-<img src="https://img.vim-cn.com/4f/84294e248881f5bce4fc8a379a63322935dafd.png" alt="图裂了😂需要机场才能正常显示"/><br/>    
+<img src="https://github.com/jerrykuku/luci-theme-argon/raw/master/Screenshots/screenshot_pc.jpg" alt="图裂了😂需要机场才能正常显示"/><br/>
+<img src="https://github.com/jerrykuku/luci-theme-argon/raw/master/Screenshots/screenshot_phone.jpg" alt="图裂了😂需要机场才能正常显示"/><br/>    
 </details>
 
 3. 去掉 K2 的支持，因为只有 8M ROM 容量，实在是放不进去什么功能。

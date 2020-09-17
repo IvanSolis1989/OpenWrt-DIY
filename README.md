@@ -133,6 +133,10 @@ OpenWrt DIY — 多设备固件云编译
 
 [anti-AD 中文区命中率最高的广告过滤列表](https://github.com/privacy-protection-tools/anti-AD)
 
+[最完善的 iOS 翻墙规则](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
+
+[国内加速过滤广告规则订阅](https://github.com/Silentely/AdBlock-Acceleration)
+
 </details>
 
 <details>

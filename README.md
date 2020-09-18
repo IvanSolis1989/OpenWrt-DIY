@@ -69,9 +69,7 @@ OpenWrt DIY — 多设备固件云编译
 <img src="https://github.com/jerrykuku/luci-theme-argon/raw/master/Screenshots/screenshot_phone.jpg" alt="图裂了😂需要机场才能正常显示"/><br/>    
 </details>
 
-3. 去掉 K2 的支持，因为只有 8M ROM 容量，实在是放不进去什么功能。
-
-4. 新增极路由 B70、小米 Mini 支持。
+3. 新增极路由 B70、小米 Mini 支持。
 
 ## 注意事项 [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-)
 

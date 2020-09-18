@@ -52,6 +52,8 @@ OpenWrt DIY — 多设备固件云编译
 
 ## 近期更新 [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-)
 
+**X：疑似lean源码出问题，大范围编译失败，lean源码issues已有人提出相同错误代码反馈，等待处理中！ 2020.9.18 14:57
+
 1. 引入 Lienol 的 Packages，引入 Passwall 等插件（部分设备因为容量限制没有添加——2020.9.7）；
 
 2. 引入 Argon 最新主题包，界面更美丽。

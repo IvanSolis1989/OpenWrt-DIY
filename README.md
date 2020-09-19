@@ -53,10 +53,6 @@ OpenWrt DIY — 多设备固件云编译
 
 ## 近期更新 [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-)
 
-**疑似 Lean 源码出问题，大范围编译失败，Lean 源码 issues 已有人提出相同错误代码反馈，等待处理中！——2020.9.18 14:57**
-
-**确认源码问题已修复，编译正常。 2020.9.18 19:30**
-
 1. 引入 Lienol 的 Packages，引入 Passwall 等插件（部分设备因为容量限制没有添加——2020.9.7）；
 
 2. 引入 Argon 最新主题包，界面更美丽。
@@ -70,7 +66,7 @@ OpenWrt DIY — 多设备固件云编译
 <img src="https://github.com/jerrykuku/luci-theme-argon/raw/master/Screenshots/screenshot_phone.jpg" alt="图裂了😂需要机场才能正常显示"/><br/>    
 </details>
 
-3. 新增极路由 B70、小米 Mini 支持。
+3. 新增极路由 B70、小米 Mini 、网件 R7800 支持。
 
 ## 注意事项 [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-)
 

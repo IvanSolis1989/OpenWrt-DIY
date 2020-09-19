@@ -1,4 +1,4 @@
-[![如果页面部分图片无法显示，请开启机场服务](https://visitor-badge.glitch.me/badge?page_id=OpenWrt-DIY-visitor-badge)](#readme) [![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/issues) [![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/stargazers) [![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/network/members)
+[![如果页面部分图片无法显示，请直接到文章末尾看教程](https://visitor-badge.glitch.me/badge?page_id=OpenWrt-DIY-visitor-badge)](#readme) [![](https://img.shields.io/github/issues/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/issues) [![](https://img.shields.io/github/stars/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/stargazers) [![](https://img.shields.io/github/forks/IvanSolis1989/OpenWrt-DIY?color=FFFFFF)](https://github.com/IvanSolis1989/OpenWrt-DIY/network/members)
 <a href="#readme">
     <img src="https://img.vim-cn.com/48/6e4b91fdeefa201f93befdf858a13eefeaff5c.jpg" alt="图裂了😂" title="OpenWrt-DIY" align="right" height="180" />
 </a>
@@ -174,6 +174,10 @@ OpenWrt DIY — 多设备固件云编译
 [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)
 
 [Lienol 的 Packages 源码](https://github.com/Lienol/openwrt-packages)
+
+###
+
+[解决Github网页上图片显示失败的问题](https://blog.csdn.net/qq_38232598/article/details/91346392)
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>

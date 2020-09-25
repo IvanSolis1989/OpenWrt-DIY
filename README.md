@@ -165,9 +165,9 @@ OpenWrt DIY — 多设备固件云编译
 
 ### 捐助方式
 
-|     <img src="https://img.shields.io/badge/-支付宝-F5F5F5.svg" height="25" alt="图裂了😂"/>  |  <img src="https://img.shields.io/badge/-微信-F5F5F5.svg" height="25" alt="图裂了😂"/>  | 
+|     <img src="https://img.shields.io/badge/-支付宝-F5F5F5.svg" href="#赞助支持本项目-" height="25" alt="图裂了😂"/>  |  <img src="https://img.shields.io/badge/-微信-F5F5F5.svg" height="25" alt="图裂了😂" href="#赞助支持本项目-"/>  | 
 | :-----------------: | :-------------: |
-|<img src="https://img.vim-cn.com/24/8c86e483e945f14aeb96662270d4f320a9ed5d.jpg" width="150" height="150" alt="图裂了😂"/>|<img src="https://img.vim-cn.com/c1/e41cd8fde8f5a863f4d3cdac6f23840d398e01.jpg" width="150" height="150" alt="图裂了😂"/>|
+|<img src="https://img.vim-cn.com/24/8c86e483e945f14aeb96662270d4f320a9ed5d.jpg" width="150" height="150" alt="图裂了😂" href="#赞助支持本项目-"/>|<img src="https://img.vim-cn.com/c1/e41cd8fde8f5a863f4d3cdac6f23840d398e01.jpg" width="150" height="150" alt="图裂了😂" href="#赞助支持本项目-"/>|
 
 ## 鸣谢 [![](https://img.shields.io/badge/-鸣谢-F5F5F5.svg)](#鸣谢-)
  

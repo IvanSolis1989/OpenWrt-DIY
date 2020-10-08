@@ -42,6 +42,9 @@ OpenWrt DIY — 多设备固件云编译
 **提示：**[![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 标志为正常，[![](https://img.shields.io/badge/设备-failing-DC143C.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 或 [![](https://img.shields.io/badge/设备-no_status-A9A9A9.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 不代表所有编译均失败。请点击 [![](https://img.shields.io/badge/设备-状态-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 到 **Actions** 进一步查看。
 
 ## 基本介绍 [![](https://img.shields.io/badge/-基本介绍-F5F5F5.svg)](#基本介绍-)
+<a href="#readme">
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
+</a>
 
 1. 本方案默认引用 Lean 的源码（部分设备整合 Lienol 软件包），因为他的 README 影响了我开始学习编译，也就有了这个项目，而且他的源码非常的优秀；
 
@@ -54,6 +57,9 @@ OpenWrt DIY — 多设备固件云编译
 5. 本项目旨在让更多朋友的设备能用上稳定且功能强大的 OpenWrt 固件，并保持持续更新。也希望动手能力强的朋友去学习编译（后文有教程），然后根据你自己的需要配置 menuconfig，把配置好的 config 文件提交到本项目，本项目更可以根据使用者的需求扩充更多设备。
 
 ## 近期更新 [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-)
+<a href="#readme">
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
+</a>
 
 1. 引入 Lienol 的 Packages，引入 Passwall 等插件（部分设备因为容量限制没有添加——2020.9.7）；
 
@@ -71,6 +77,9 @@ OpenWrt DIY — 多设备固件云编译
 3. 新增极路由 B70、小米 Mini 、网件 R7800 支持。
 
 ## 注意事项 [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-)
+<a href="#readme">
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
+</a>
 
 1. 在固件编译完成后，会上传一份副本到 WeTransfer 和 奶牛快传，对于国内网络用户，为提高下载体验，可下载存放于这两个网站中的固件副本，副本下载地址位于固件下载页面中固件文件列表下的 Annotations 提示框内，几天之后网盘内的文件会失效，所以推荐周五~周日上去下载；
 <details>
@@ -86,6 +95,9 @@ OpenWrt DIY — 多设备固件云编译
 3. 如果需要下载存放于 Github Action 上的固件，由于众所周知的原因，请尽量使用科学上网方式下载固件，固件下载完成后，请下载 sha256sums 文件或使用压缩软件的 "测试压缩文件" 功能来验证固件的完整性。
 
 ## USB 网卡推荐 [![](https://img.shields.io/badge/-USB网卡推荐-F5F5F5.svg)](#usb-网卡推荐-)
+<a href="#readme">
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
+</a>
 
 **USB 有线网卡**
 
@@ -100,6 +112,9 @@ OpenWrt DIY — 多设备固件云编译
 **备注**：个人不建议在软路由设备上用 USB 外接无线网卡，信号强度、稳定性都比较弱。
 
 ## OpenWrt 小贴士 [![](https://img.shields.io/badge/-OpenWrt小贴士-F5F5F5.svg)](#openwrt-小贴士-)
+<a href="#readme">
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
+</a>
 
 <details>
  <summary><b>基础常用</b></summary>
@@ -158,6 +173,9 @@ OpenWrt DIY — 多设备固件云编译
 </details>
 
 ## 赞助/支持本项目 [![](https://img.shields.io/badge/-赞助本项目-F5F5F5.svg)](#赞助支持本项目-)
+<a href="#readme">
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
+</a>
 
 **若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**
 
@@ -170,6 +188,9 @@ OpenWrt DIY — 多设备固件云编译
 |<img src="https://img.vim-cn.com/24/8c86e483e945f14aeb96662270d4f320a9ed5d.jpg" width="150" height="150" alt="图裂了😂" href="#赞助支持本项目-"/>|<img src="https://img.vim-cn.com/c1/e41cd8fde8f5a863f4d3cdac6f23840d398e01.jpg" width="150" height="150" alt="图裂了😂" href="#赞助支持本项目-"/>|
 
 ## 鸣谢 [![](https://img.shields.io/badge/-鸣谢-F5F5F5.svg)](#鸣谢-)
+<a href="#readme">
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
+</a>
  
 [P3TERX 的 Action 源码](https://github.com/P3TERX/Actions-OpenWrt)
 

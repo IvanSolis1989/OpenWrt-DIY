@@ -78,8 +78,6 @@ OpenWrt DIY — 多设备固件云编译
 <img src="https://github.com/jerrykuku/luci-theme-argon/raw/master/Screenshots/screenshot_phone.jpg" alt="图裂了😂需要机场才能正常显示"/><br/>    
 </details>
 
-3. 新增极路由 B70、小米 Mini 、网件 R7800 支持。
-
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>

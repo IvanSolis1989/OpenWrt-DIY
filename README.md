@@ -12,7 +12,7 @@ OpenWrt DIY — 多设备固件云编译
 
 如果您未阅读完本页面，可能会遇到 **固件下载问题** ，若遇到问题，请 **返回此页面，认真完整阅读一遍** ~
 
-本项目QQ群：1130190364
+**本项目QQ群：1130190364**
 
 <p align="center"><img src="https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg" height="35" alt="图裂了😂"/></p>
 

@@ -3,10 +3,6 @@ OpenWrt DIY — 多设备固件云编译
 
 [![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-基本介绍-F5F5F5.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-) [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-) [![](https://img.shields.io/badge/-USB网卡推荐-F5F5F5.svg)](#usb-网卡推荐-) [![](https://img.shields.io/badge/-OpenWrt小贴士-F5F5F5.svg)](#openwrt-小贴士-)
 
-请 **认真阅读完毕** 本页面，本页面包含如何提升固件下载体验的内容。
-
-**本项目继承自(https://github.com/dreamskr/OpenWrt-DIY)** 仅新手学习自用，如侵权，请留言，我将第一时间删除
-
 <p align="center"></p>
 
 **点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/dreamskr/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
@@ -44,15 +40,11 @@ OpenWrt DIY — 多设备固件云编译
 
 ## 基本介绍 [![](https://img.shields.io/badge/-基本介绍-F5F5F5.svg)](#基本介绍-)
 
-1. 本方案默认引用 Lean 的源码（部分设备整合 Lienol 软件包），因为他的 README 影响了我开始学习编译，也就有了这个项目，而且他的源码非常的优秀；
+1. 本方案默认引用 Lean 的源码（部分设备整合 Lienol 软件包），并继承自（https://github.com/IvanSolis1989/OpenWrt-DIY） 仅用于学习自用，如有侵权，请告知，我将第一赶时间删除；
 
 2. 本项目在 **每周五 12:00** 拉取 Lean 最新源码和第三方软件包项目自动编译（根据设备不同编译时间在1~5个小时，这样晚上回家就可以愉快的开刷啦），默认情况下固件每周编译一次 (config 文件更新时除外)，**固件包含必要驱动及常用插件**（各设备的 config 借鉴大雕设置及根据网友需求调整），未逐一经过实机测试，故 **不保证 100% 可靠性**；
 
 3. 不建议直接 **Fork** 本项目，这样会造成 Github 资源浪费，重复编译，需要固件的请直接下载即可。这也是为什么本项目选择一周升级编译一次，而不是每天都编译。
-
-4. 如有什么问题、需要增加编译设备或者编译文件配置需要调整的，**可以直接在 Issues 内留言。** 我会不定时的根据大家的要求修改**编译配置，插件选项，增加编译设备**等；
-
-5. 本项目旨在让更多朋友的设备能用上稳定且功能强大的 OpenWrt 固件，并保持持续更新。也希望动手能力强的朋友去学习编译（后文有教程），然后根据你自己的需要配置 menuconfig，把配置好的 config 文件提交到本项目，本项目更可以根据使用者的需求扩充更多设备。
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了??" title="返回顶部" align="right"/>
@@ -171,22 +163,6 @@ OpenWrt DIY — 多设备固件云编译
 [Lean's OpenWrt 插件大全](https://github.com/dreamskr/OpenWrt-DIY/wiki/Lean‘s-OpenWrt-——LuCI-Applications-插件说明)
 
 </details>
-
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了??" title="返回顶部" align="right"/>
-</a>
-
-## 赞助/支持本项目 [![](https://img.shields.io/badge/-赞助本项目-F5F5F5.svg)](#赞助支持本项目-)
-
-**若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**
-
-**你们的支持就是我的动力！**
-
-### 捐助方式
-
-|     <img src="https://img.shields.io/badge/-支付宝-F5F5F5.svg" href="#赞助支持本项目-" height="25" alt="图裂了??"/>  |  <img src="https://img.shields.io/badge/-微信-F5F5F5.svg" height="25" alt="图裂了??" href="#赞助支持本项目-"/>  | 
-| :-----------------: | :-------------: |
-|<img src="https://img.vim-cn.com/24/8c86e483e945f14aeb96662270d4f320a9ed5d.jpg" width="150" height="150" alt="图裂了??" href="#赞助支持本项目-"/>|<img src="https://img.vim-cn.com/c1/e41cd8fde8f5a863f4d3cdac6f23840d398e01.jpg" width="150" height="150" alt="图裂了??" href="#赞助支持本项目-"/>|
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了??" title="返回顶部" align="right"/>

@@ -40,6 +40,9 @@ git clone --depth=1 https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk
 # Add ServerChan
 git clone --depth=1 https://github.com/tty228/luci-app-serverchan
 
+# Add koolproxyR
+git clone --depth=1 -b master https://github.com/cnzd/luci-app-koolproxyR
+
 # Add OpenClash
 git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 

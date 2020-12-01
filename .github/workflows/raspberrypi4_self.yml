@@ -27,7 +27,7 @@ env:
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: config/raspberrypi4_self.config
   DIY_P1_SH: scripts/diy-part1.sh
-  DIY_P2_SH: scripts/diy-part3.sh
+  DIY_P2_SH: scripts/diy-part4.sh
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: true

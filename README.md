@@ -83,7 +83,7 @@ OpenWrt DIY — 多设备固件云编译
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-**2. 以后不再定期更新，所有设备改为大雕源码有更新后自动编译。**
+2. **以后不再定期更新，所有设备改为大雕源码有更新后自动编译。**
 
 ## 注意事项 [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-)
 

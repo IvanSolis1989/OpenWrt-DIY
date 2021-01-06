@@ -13,7 +13,7 @@ name: Lienol源码更新检测
 
 env:
   REPO_URL: https://github.com/Lienol/openwrt-packages
-  REPO_BRANCH: master
+  REPO_BRANCH: 19.07
 
 on:
   workflow_dispatch:

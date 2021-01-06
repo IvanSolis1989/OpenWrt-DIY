@@ -68,9 +68,7 @@ OpenWrt DIY — 多设备固件云编译
 
 ## 近期更新 [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-)
 
-1. 引入 Lienol 的 Packages，引入 Passwall 等插件（部分设备因为容量限制没有添加——2020.9.7）；
-
-2. 引入 Argon 最新主题包，界面更美丽。
+1. 引入 Argon 最新主题包，界面更美丽。
 
 <details>
  <summary>&nbsp;&nbsp;&nbsp;最新版 Argon 主题截图</summary>
@@ -85,7 +83,7 @@ OpenWrt DIY — 多设备固件云编译
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-3. 以后不再定期更新，所有设备改为大雕源码有更新后自动编译。
+**2. 以后不再定期更新，所有设备改为大雕源码有更新后自动编译。**
 
 ## 注意事项 [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-)
 

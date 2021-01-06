@@ -9,7 +9,7 @@
 # Description: Source code update checker
 #
 
-name: Lienol源码更新检测
+name: Lienol 源码更新检测
 
 env:
   REPO_URL: https://github.com/Lienol/openwrt-packages

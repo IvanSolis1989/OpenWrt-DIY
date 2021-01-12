@@ -125,6 +125,8 @@ OpenWrt DIY — 多设备固件云编译
 
 ## OpenWrt 小贴士 [![](https://img.shields.io/badge/-OpenWrt小贴士-F5F5F5.svg)](#openwrt-小贴士-)
 
+本栏目包含了很多OpenWrt日常使用问题解决方案、“不可描述”的教程、广告屏蔽教程，OpenWrt本地自编译教程。
+
 <details>
  <summary><b>基础常用</b></summary>
 

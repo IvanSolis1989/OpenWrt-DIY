@@ -72,7 +72,7 @@ OpenWrt DIY — 多设备固件云编译
 1. 引入 Argon 最新主题包，界面更美丽。
 
 <details>
- <summary>&nbsp;&nbsp;&nbsp;Argon 主题概念图</summary>
+ <summary>&nbsp;&nbsp;&nbsp; Argon 主题概念图</summary>
    
 <br/>
     

@@ -145,6 +145,10 @@ OpenWrt DIY — 多设备固件云编译
 
 [最好的 OpenWrt 路由器 shadowsocks 自动翻墙、科学上网教程](https://github.com/softwaredownload/openwrt-fanqiang)
 
+[自由上网方法大全](https://github.com/Alvin9999/new-pac/wiki)
+
+[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
+
 [翻墙软件 VPN 推荐指南（含 2020 优惠）](https://github.com/vpncn/vpncn.github.io)
 
 [免费机场节点获取](https://github.com/hugetiny/awesome-vpn/blob/master/READMECN.md)

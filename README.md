@@ -12,7 +12,7 @@
 
 如果您未阅读完本页面，可能会遇到 **固件下载问题** ，若遇到问题，请 **返回此页面，认真完整阅读一遍** ~
 
-**[OpenWrt QQ 群 — 点击加入](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)**
+[![](https://img.shields.io/badge/-OpenWrt_QQ_群_—_点击加入:-DC143C.svg)](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)
 
 <p align="center"><img src="https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg" height="35" alt="图裂了😂"/></p>
 

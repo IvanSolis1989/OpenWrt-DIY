@@ -169,6 +169,17 @@
 </details>
 
 <details>
+ <summary><b>共享盘技巧</b></summary>
+
+<br/>
+
+[全球5000多个IPTV频道](https://github.com/iptv-org/iptv)
+
+[最好用的家庭影院播放器KODI，支持windows、Mac、安卓、iOS](http://www.kodiplayer.cn/)
+
+</details>
+
+<details>
  <summary><b>本地编译</b></summary>
 
 <br/>

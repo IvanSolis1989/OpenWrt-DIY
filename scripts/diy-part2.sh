@@ -80,8 +80,8 @@ svn co https://github.com/project-openwrt/openwrt/trunk/package/ntlf9t/luci-app-
 git clone --depth=1 https://github.com/zcy85611/openwrt-luci-kcp-udp
 
 # Add OpenAppFilter
-git clone --depth=1 https://github.com/destan19/OpenAppFilter
-popd
+# git clone --depth=1 https://github.com/destan19/OpenAppFilter
+# popd
 
 # Mod zzz-default-settings
 pushd package/lean/default-settings/files

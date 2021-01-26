@@ -52,7 +52,7 @@
 
 ## 基本介绍 [![](https://img.shields.io/badge/-基本介绍-F5F5F5.svg)](#基本介绍-)
 
-1. 默认引用 Lean 的源码（部分设备整合 Lienol 软件包），因为他的 README 影响了我开始学习编译，也就有了这个项目，而且他的源码非常的优秀；
+1. 默认引用[ Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)（部分设备整合[ Lienol 的 Packages 源码](https://github.com/Lienol/openwrt-packages)），因为他的 README 影响了我开始学习编译，也就有了这个项目，而且他的源码非常的优秀；
 
 2.  **每周五查询大雕源码是否有更新** ，如有更新自动拉取最新源码和第三方软件包项目自动编译（根据设备不同编译时间在1~5个小时），**固件包含必要驱动及常用插件**（各设备的 config 借鉴大雕设置及根据网友需求调整），未逐一经过实机测试，故 **不保证 100% 可靠性**；
 

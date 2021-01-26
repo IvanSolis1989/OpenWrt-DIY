@@ -68,7 +68,7 @@
 
 ## 近期更新 [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-)
 
-1. 引入 [Argon 最新主题包](https://github.com/jerrykuku/luci-theme-argon)，界面更美丽。
+1. 采用 [Argon 主题](https://github.com/jerrykuku/luci-theme-argon)，界面更美丽。
 
 <details>
  <summary>&nbsp;&nbsp;&nbsp; Argon 主题展示图</summary>

@@ -1,6 +1,6 @@
 [![若部分图片无法正常显示，请挂上机场浏览或点这里到末尾看修复教程](https://visitor-badge.glitch.me/badge?page_id=OpenWrt-DIY-visitor-badge)](#解决-github-网页上图片显示失败的问题) [![](https://img.shields.io/github/last-commit/coolsnowwolf/lede/master?color=FFFFFF&label=%E6%BA%90%E7%A0%81%E6%9B%B4%E6%96%B0)](https://github.com/coolsnowwolf/lede) [![](https://img.shields.io/github/release-date/IvanSolis1989/OpenWrt-DIY?color=FFFFFF&label=%E5%9B%BA%E4%BB%B6%E6%9B%B4%E6%96%B0)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) [![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)
 <a href="#readme">
-    <img src="https://img.vim-cn.com/db/018fac69e39167b5a6f692dfe5b715eccf2960.jpg" alt="图裂了😂" title="OpenWrt-DIY" align="right" height="180" />
+    <img src="https://img.vim-cn.com/db/018fac69e39167b5a6f692dfe5b715eccf2960.jpg" alt="图裂了😂" title="OpenWrt-DIY" align="right" height="100" />
 </a>
 
 [OpenWrt DIY — 多设备固件云编译](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)

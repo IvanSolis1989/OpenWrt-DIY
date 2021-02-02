@@ -153,6 +153,8 @@
 
 [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 
+[WinXray](https://github.com/TheMRLL/winxray)
+
 [翻墙软件 VPN 推荐指南（含 2020 优惠）](https://github.com/vpncn/vpncn.github.io)
 
 [免费机场节点获取](https://github.com/hugetiny/awesome-vpn/blob/master/READMECN.md)

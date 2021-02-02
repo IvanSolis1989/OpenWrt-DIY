@@ -124,7 +124,7 @@
 </details>
 
 <details>
- <summary><b>USB 网卡推荐</b></summary>
+ <summary><b>USB 网卡</b></summary>
 
 <br/>
 

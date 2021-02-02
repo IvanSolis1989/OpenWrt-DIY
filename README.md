@@ -115,6 +115,8 @@
 
 [OpenWrt 基础配置](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE)
 
+[OpenWrt 软路由 IPv6 上网设置](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-%E8%BD%AF%E8%B7%AF%E7%94%B1-IPv6-%E4%B8%8A%E7%BD%91%E8%AE%BE%E7%BD%AE)
+
 [OpenWrt 网络共享文件和 Transmission 使用技巧，再也没有恼人的权限问题](https://youtu.be/wmR7o9p9vSY)
 
 [SD 卡设备固件刷写程序 BalenaEtcher](https://www.balena.io/etcher/)

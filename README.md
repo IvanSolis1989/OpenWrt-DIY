@@ -157,7 +157,9 @@
 
 [翻墙软件 VPN 推荐指南（含 2020 优惠）](https://github.com/vpncn/vpncn.github.io)
 
-[免费机场节点获取](https://github.com/hugetiny/awesome-vpn/blob/master/READMECN.md)
+[免费机场节点获取 1](https://github.com/hugetiny/awesome-vpn/blob/master/READMECN.md)
+
+[免费机场节点获取 2](https://bu.link2.workers.dev/https/github.com/freefq/free)
 
 </details>
 

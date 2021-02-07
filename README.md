@@ -6,7 +6,7 @@
 [OpenWrt DIY — 多设备固件云编译](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)
 ======================
 
-[![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件下载-F5F5F5.svg)](#支持设备、编译状态及固件下载-) [![](https://img.shields.io/badge/-基本介绍-F5F5F5.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-) [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-) [![](https://img.shields.io/badge/-小贴士-F5F5F5.svg)](#小贴士-) [![](https://img.shields.io/badge/-捐助-F5F5F5.svg)](#捐助-) [![](https://img.shields.io/badge/-鸣谢-F5F5F5.svg)](#鸣谢-)
+[![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件下载-F5F5F5.svg)](#支持设备编译状态及固件下载-) [![](https://img.shields.io/badge/-基本介绍-F5F5F5.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-) [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-) [![](https://img.shields.io/badge/-小贴士-F5F5F5.svg)](#小贴士-) [![](https://img.shields.io/badge/-捐助-F5F5F5.svg)](#捐助-) [![](https://img.shields.io/badge/-鸣谢-F5F5F5.svg)](#鸣谢-)
 
 请 **认真阅读完毕** 本页面，本页面包含如何提升固件下载及使用体验的内容。
 

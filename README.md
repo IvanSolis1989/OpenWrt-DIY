@@ -92,15 +92,13 @@
 
 ## 基本介绍 [![](https://img.shields.io/badge/-基本介绍-F5F5F5.svg)](#基本介绍-)
 
-1. 默认引用[ Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)（部分设备整合[ Lienol 的 Packages 源码](https://github.com/Lienol/openwrt-packages)），因为他的 [README](https://github.com/coolsnowwolf/lede/blob/master/README.md) 影响了我开始学习编译，也就有了这个项目，而且他的源码非常的优秀；
+1. 默认引用[ Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)（部分设备整合[ Lienol 的 Packages 源码](https://github.com/Lienol/openwrt-packages)），因为他的 [README](https://github.com/coolsnowwolf/lede/blob/master/README.md) 影响了我开始学习编译；Github Actions 自动云编译代码采用 [P3TERX 的 Action 源码 ](https://github.com/P3TERX/Actions-OpenWrt)。
 
 2.  **每周五查询大雕源码是否有更新** ，如有更新自动拉取最新源码和第三方软件包项目自动编译（根据设备不同编译时间在1~5个小时），**固件包含必要驱动及常用插件**（各设备的 config 借鉴大雕设置及根据网友需求调整），未逐一经过实机测试，故 **不保证 100% 可靠性**；
 
-3. 不建议直接 **Fork** 本项目，这样会造成 Github 资源浪费，重复编译，需要固件的请直接下载即可。这也是为什么本项目选择源码有更新才编译一次，而不是每天都编译。
+3. 如有什么问题、需要增加编译设备或者编译文件配置需要调整的，**可以直接在 [Issues](https://github.com/IvanSolis1989/OpenWrt-DIY/issues) 内留言。** 我会不定时的根据大家的要求修改**编译配置，插件选项，增加编译设备**等；
 
-4. 如有什么问题、需要增加编译设备或者编译文件配置需要调整的，**可以直接在 [Issues](https://github.com/IvanSolis1989/OpenWrt-DIY/issues) 内留言。** 我会不定时的根据大家的要求修改**编译配置，插件选项，增加编译设备**等；
-
-5. 为了让更多朋友的设备能用上稳定且功能强大的 OpenWrt 固件，并保持持续更新。也希望动手能力强的朋友去学习编译（后文有教程），然后根据你自己的需要配置 menuconfig，把配置好的 config 文件提交到本项目，可以根据使用者的需求扩充更多设备。
+4. 为了让更多朋友的设备能用上稳定且功能强大的 OpenWrt 固件，并保持持续更新。也希望动手能力强的朋友去学习编译（后文有教程），然后根据你自己的需要配置 menuconfig，把配置好的 config 文件提交到本项目，可以根据使用者的需求扩充更多设备。
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>

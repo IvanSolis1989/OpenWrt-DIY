@@ -14,7 +14,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg" height="30" alt="图裂了😂"/></p>
 <details>
- <summary><b>X86 设备、编译状态及固件下载</b></summary>
+ <summary><b>X86 设备编译状态及固件下载</b></summary>
     
 <br/>
  
@@ -29,7 +29,7 @@
 </details>
 
 <details>
- <summary><b>ARM 设备、编译状态及固件下载</b></summary>
+ <summary><b>ARM 设备编译状态及固件下载</b></summary>
     
 <br/>
  
@@ -51,7 +51,7 @@
 </details>
 
 <details>
- <summary><b>高通平台设备、编译状态及固件下载</b></summary>
+ <summary><b>高通平台设备编译状态及固件下载</b></summary>
     
 <br/>
 
@@ -69,7 +69,7 @@
 </details>
 
 <details>
- <summary><b>MIPS 设备、编译状态及固件下载</b></summary>
+ <summary><b>MIPS 设备编译状态及固件下载</b></summary>
     
 <br/>
 

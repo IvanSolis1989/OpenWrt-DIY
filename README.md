@@ -14,7 +14,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg" height="30" alt="图裂了😂"/></p>
 <details>
- <summary><b>[![X86 设备、编译状态及固件下载](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)]</b></summary>
+ <summary><b>X86 设备、编译状态及固件下载</b></summary>
     
 <br/>
  

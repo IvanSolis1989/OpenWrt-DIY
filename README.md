@@ -11,9 +11,7 @@
 请 **认真阅读完毕** 本页面，本页面包含如何提升固件下载及使用体验的内容。
 
 如果您未阅读完本页面，可能会遇到 **固件下载问题** ，若遇到问题，请 **返回此页面，认真完整阅读一遍** ~
-
 # <p align="center"><img src="https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg" height="35" alt="图裂了😂"/></p>
-
 <details>
  <summary><b>X86 设备、编译状态及固件下载</b></summary>
     

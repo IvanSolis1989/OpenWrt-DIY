@@ -14,7 +14,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg" height="30" alt="图裂了😂"/></p>
 <details>
- <summary><b>X86  设备编译状态及固件下载</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; X86  设备编译状态及固件下载</b></summary>
     
 <br/>
  
@@ -29,7 +29,7 @@
 </details>
 
 <details>
- <summary><b>ARM 设备编译状态及固件下载</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; ARM 设备编译状态及固件下载</b></summary>
     
 <br/>
  
@@ -51,7 +51,7 @@
 </details>
 
 <details>
- <summary><b>高通 设备编译状态及固件下载</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; 高通 设备编译状态及固件下载</b></summary>
     
 <br/>
 
@@ -69,7 +69,7 @@
 </details>
 
 <details>
- <summary><b>MIPS 设备编译状态及固件下载</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; MIPS 设备编译状态及固件下载</b></summary>
     
 <br/>
 
@@ -147,7 +147,7 @@
 **本栏目包含了很多 OpenWrt 日常使用问题解决方案、“不可描述”的教程、广告屏蔽教程，NAS（或路由器共享盘）的多媒体文件整理播放教程、OpenWrt 本地自编译教程。**
 
 <details>
- <summary><b>基础常用</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; 基础常用</b></summary>
 
 <br/>
 
@@ -162,7 +162,7 @@
 </details>
 
 <details>
- <summary><b>USB 网卡</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; USB 网卡</b></summary>
 
 <br/>
 
@@ -181,7 +181,7 @@
 </details>
 
 <details>
- <summary><b>不可描述</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; 不可描述</b></summary>
 
 <br/>
 
@@ -202,7 +202,7 @@
 </details>
 
 <details>
- <summary><b>广告屏蔽</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; 广告屏蔽</b></summary>
 
 <br/>
 
@@ -215,7 +215,7 @@
 </details>
 
 <details>
- <summary><b>NAS 影院</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; NAS 影院</b></summary>
 
 <br/>
 
@@ -226,7 +226,7 @@
 </details>
 
 <details>
- <summary><b>本地编译</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; 本地编译</b></summary>
 
 <br/>
 

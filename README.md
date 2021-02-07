@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-## 基本介绍 [![](https://img.shields.io/badge/-基本介绍-F5F5F5.svg)](#基本介绍-)
+## 基本介绍 [![](https://img.shields.io/badge/-项目基本介绍-F5F5F5.svg)](#基本介绍-)
 
 1. 默认引用[ Lean 的 OpenWrt 源](https://github.com/coolsnowwolf/lede)（部分设备整合[ Lienol 的 Packages 源](https://github.com/Lienol/openwrt-packages)），因为他的 [README](https://github.com/coolsnowwolf/lede/blob/master/README.md) 影响了我开始学习编译；Github Actions 自动云编译代码采用 [P3TERX 的 Actions-OpenWrt 源 ](https://github.com/P3TERX/Actions-OpenWrt)。
 
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-## 近期更新 [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-)
+## 近期更新 [![](https://img.shields.io/badge/-近期固件更新-F5F5F5.svg)](#近期更新-)
 
 1. 采用 [Argon 主题](https://github.com/jerrykuku/luci-theme-argon)，界面更美丽。
 
@@ -127,7 +127,7 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-## 注意事项 [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-)
+## 注意事项 [![](https://img.shields.io/badge/-下载注意事项-F5F5F5.svg)](#注意事项-)
 
 1. 在固件编译完成后，会上传一份副本到 WeTransfer 和 奶牛快传，对于国内网络用户，为提高下载体验，可下载存放于这两个网站中的固件副本，副本下载地址位于固件下载页面中固件文件列表下的 Annotations 提示框内，几天之后网盘内的文件会失效，所以推荐周五~周日上去下载；
 <details>
@@ -146,7 +146,7 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-## 小贴士 [![](https://img.shields.io/badge/-小贴士-F5F5F5.svg)](#小贴士-)
+## 小贴士 [![](https://img.shields.io/badge/-日常使用技巧及教程-F5F5F5.svg)](#小贴士-)
 
 **本栏目包含了很多 OpenWrt 日常使用问题解决方案、“不可描述”的教程、广告屏蔽教程，NAS（或路由器共享盘）的多媒体文件整理播放教程、OpenWrt 本地自编译教程。**
 
@@ -250,7 +250,7 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-## 捐助 [![](https://img.shields.io/badge/-捐助-F5F5F5.svg)](#捐助-)
+## 捐助 [![](https://img.shields.io/badge/-请我喝茶-F5F5F5.svg)](#捐助-)
 
 **若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**
 
@@ -266,7 +266,7 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-## 鸣谢 [![](https://img.shields.io/badge/-鸣谢-F5F5F5.svg)](#鸣谢-)
+## 鸣谢 [![](https://img.shields.io/badge/-跪谢各大佬-F5F5F5.svg)](#鸣谢-)
  
 [P3TERX 的 Action 源码](https://github.com/P3TERX/Actions-OpenWrt)
 

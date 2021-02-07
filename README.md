@@ -18,7 +18,7 @@
 
 |    序号   |     架构平台     |   编译状态及下载链接 |   插件配置   | 备注说明   |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 
-|    （img src="https://img.shields.io/badge/-序号-F5F5F5.svg）    |     X86设备  |   X86设备编译状态及下载链接 |   插件配置   | 备注说明   |
+|    （https://img.shields.io/badge/-序号-F5F5F5.svg）    |     X86设备  |   X86设备编译状态及下载链接 |   插件配置   | 备注说明   |
 | 1 |   [![](https://img.shields.io/badge/OpenWrt-x86_64_(64位)-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22)    | [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20X86(64bit)%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2864bit%29+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/x86_64.config) |  |  
 | 2 |    [![](https://img.shields.io/badge/OpenWrt-x86_(32位)-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2832bit%29+OpenWrt%22)     |[![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20X86(32bit)%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+X86%2832bit%29+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/x86.config) | | 
 |    序号   |     ARM设备    |   ARM设备编译状态及下载链接 |   插件配置   | 备注说明   |

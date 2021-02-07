@@ -51,12 +51,12 @@
 </details>
 
 <details>
- <summary><b>高通平台设备编译状态及固件下载</b></summary>
+ <summary><b>高通设备编译状态及固件下载</b></summary>
     
 <br/>
 
 **点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
-|    序号   |     高通平台     |   高通平台设备编译状态及下载链接 |   插件配置   | 备注说明   |
+|    序号   |     高通平台     |   高通设备编译状态及下载链接 |   插件配置   | 备注说明   |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 
 | 1 |        [![](https://img.shields.io/badge/OpenWrt-竞斗云-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+G-Dock+OpenWrt%22)         |[![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20G-Dock%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+G-Dock+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/gdock-lean-openwrt.config)  | | 
 | 2|     [![](https://img.shields.io/badge/OpenWrt-网件_R7800-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Netgear+R7800+OpenWrt%22)   | [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20Netgear%20R7800%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions?query=workflow%3A%22Build+Netgear+R7800+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/r7800.config) |   |

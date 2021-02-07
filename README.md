@@ -17,7 +17,7 @@
 **点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
 
 <details>
- <summary><b>X86 设备、编译状态及固件下载</b></summary>
+ <summary><b><img src="https://img.shields.io/badge/-X86 设备、编译状态及固件下载-FFFFFF.svg" height="35" alt="图裂了😂"/></b></summary>
     
 <br/>
     

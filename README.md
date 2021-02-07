@@ -6,7 +6,7 @@
 [OpenWrt DIY — 多设备固件云编译](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)
 ======================
 
-[![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-基本介绍-F5F5F5.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-) [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-) [![](https://img.shields.io/badge/-OpenWrt小贴士-F5F5F5.svg)](#openwrt-小贴士-) [![](https://img.shields.io/badge/-捐助-F5F5F5.svg)](#捐助-) [![](https://img.shields.io/badge/-鸣谢-F5F5F5.svg)](#鸣谢-)
+[![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-基本介绍-F5F5F5.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-) [![](https://img.shields.io/badge/-注意事项-F5F5F5.svg)](#注意事项-) [![](https://img.shields.io/badge/-小贴士-F5F5F5.svg)](#小贴士-) [![](https://img.shields.io/badge/-捐助-F5F5F5.svg)](#捐助-) [![](https://img.shields.io/badge/-鸣谢-F5F5F5.svg)](#鸣谢-)
 
 请 **认真阅读完毕** 本页面，本页面包含如何提升固件下载及使用体验的内容。
 
@@ -144,7 +144,7 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-## OpenWrt 小贴士 [![](https://img.shields.io/badge/-OpenWrt小贴士-F5F5F5.svg)](#openwrt-小贴士-)
+## 小贴士 [![](https://img.shields.io/badge/-小贴士-F5F5F5.svg)](#小贴士-)
 
 **本栏目包含了很多 OpenWrt 日常使用问题解决方案、“不可描述”的教程、广告屏蔽教程，NAS（或路由器共享盘）的多媒体文件整理播放教程、OpenWrt 本地自编译教程。**
 

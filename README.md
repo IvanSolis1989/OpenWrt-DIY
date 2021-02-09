@@ -250,7 +250,7 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-## 捐助 [![](https://img.shields.io/badge/-请我喝茶-F5F5F5.svg)](#捐助-)
+## 捐助 [![](https://img.shields.io/badge/-请我喝咖啡啦-F5F5F5.svg)](#捐助-)
 
 **若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**
 

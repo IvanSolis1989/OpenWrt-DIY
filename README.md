@@ -12,9 +12,9 @@
 
 如果您未阅读完本页面，可能会遇到 **固件下载问题** ，若遇到问题，请 **返回此页面，认真完整阅读一遍** ~
 
-## 插件列表
-![](https://img.shields.io/badge/-SSR_PLUS+-F5F5F5.svg)
+## 插件列表 [![](https://img.shields.io/badge/-主要插件列表-F5F5F5.svg)](#插件列表-)
 
+![](https://img.shields.io/badge/-SSR_PLUS+-F5F5F5.svg) ![](https://img.shields.io/badge/-PassWall-F5F5F5.svg) ![](https://img.shields.io/badge/-OpenClash-F5F5F5.svg) ![](https://img.shields.io/badge/-AdGuard_Home-F5F5F5.svg) ![](https://img.shields.io/badge/-广告屏蔽大师_Plus+-F5F5F5.svg) ![](https://img.shields.io/badge/-解锁网易云灰色歌曲-F5F5F5.svg) ![](https://img.shields.io/badge/-京东签到服务-F5F5F5.svg) ![](https://img.shields.io/badge/-Docker_容器-F5F5F5.svg) ![](https://img.shields.io/badge/-AirPlay2-F5F5F5.svg) ![](https://img.shields.io/badge/-Samba_CIFSD_FTP_SFTP_文件传输-F5F5F5.svg) ![](https://img.shields.io/badge/-Aria2-F5F5F5.svg) ![](https://img.shields.io/badge/-Transmission-F5F5F5.svg) ![](https://img.shields.io/badge/-SQM_Qos-F5F5F5.svg) ![](https://img.shields.io/badge/-SFE_加速-F5F5F5.svg) ![](https://img.shields.io/badge/-桥接加速-F5F5F5.svg) ![](https://img.shields.io/badge/-IPV6_加速-F5F5F5.svg) ![](https://img.shields.io/badge/-FULLCONE_NAT_加速-F5F5F5.svg) ![](https://img.shields.io/badge/-BBR_加速-F5F5F5.svg) ![](https://img.shields.io/badge/-多线多拨-F5F5F5.svg) ![](https://img.shields.io/badge/-负载均衡-F5F5F5.svg)
 
 ## 固件下载 [![](https://img.shields.io/badge/-支持设备、编译状态及固件下载-F5F5F5.svg)](#固件下载-)
 <details>

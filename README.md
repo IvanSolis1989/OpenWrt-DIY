@@ -13,7 +13,7 @@
 如果您未阅读完本页面，可能会遇到 **固件下载问题** ，若遇到问题，请 **返回此页面，认真完整阅读一遍** ~
 
 ## 插件列表
-[](https://img.shields.io/badge/-SSR_PLUS+-FFFFFF.svg)
+![](https://img.shields.io/badge/-SSR_PLUS+-F5F5F5.svg)
 
 
 ## 固件下载 [![](https://img.shields.io/badge/-支持设备、编译状态及固件下载-F5F5F5.svg)](#固件下载-)

@@ -20,6 +20,7 @@
 
 <details>
  <summary><b>OpenWrt</b></summary>  
+ <br/>
 <details>
  <summary><b>├── 状态</b></summary>  
 　│　├── 概况<br/>
@@ -33,7 +34,7 @@
 　│　├── WireGuard 状态<br/>
 　│　├── Online User<br/>
 　│　├── 负载均衡<br/>
-　│　└── 释放内存<br/>
+　│　└── 释放内存
 </details>
 <details>
  <summary><b>├── 系统</b></summary>  
@@ -52,7 +53,7 @@
 　│　├── 定时重启<br/>
 　│　├── 文件传输<br/>
 　│　├── Argon 主题设置<br/>
-　│　└── 重启<br/>
+　│　└── 重启
 </details>
 <details>
  <summary><b>├── 服务</b></summary>  
@@ -83,7 +84,7 @@
 　│　├── Frp 内网穿透<br/>
 　│　├── 迅雷快鸟<br/>
 　│　├── HAProxy<br/>
-　│　└── MWAN3 分流助手<br/>
+　│　└── MWAN3 分流助手
 </details>
 <details>
  <summary><b>├── 网络存储</b></summary>  
@@ -106,7 +107,7 @@
 　│　├── 挂载 SMB 网络共享<br/>
 　│　├── MJPG-streamer<br/>
 　│　├── Rclone<br/>
-　│　└── BaiduPCS Web<br/>
+　│　└── BaiduPCS Web
 </details>
 <details>
  <summary><b>├── VPN</b></summary>  
@@ -119,7 +120,7 @@
 　│　├── IPSec VPN 服务器<br/>
 　│　├── SoftEther VPN 服务器<br/>
 　│　├── OpenVPN 服务器<br/>
-　│　└── ZeroTier<br/>
+　│　└── ZeroTier
 </details>
 <details>
  <summary><b>├── 网络</b></summary>  
@@ -137,14 +138,14 @@
 　│　├── Socat<br/>
 　│　├── 多线多拨<br/>
 　│　├── 负载均衡<br/>
-　│　└── Turbo ACC 网络加速<br/>
+　│　└── Turbo ACC 网络加速
 </details>
 <details>
  <summary><b>├── 带宽监控</b></summary>  
 　│　├── 显示<br/>
 　│　├── 配置<br/>
 　│　├── 备份<br/>
-　│　└── 实时流量监测<br/>
+　│　└── 实时流量监测
 </details>
 　└── 退出
 </details>

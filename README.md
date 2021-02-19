@@ -78,7 +78,7 @@
  <summary><b>&nbsp;&nbsp;&nbsp; MIPS 设备编译状态及固件下载</b></summary>
     
 <br/>
-
+**考虑到MIPS设备的CPU性能及RAM/ROM容量配置，插件较其他设备做了很大范围的删减。**<br/>
 **点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
 |    序号   |     MIPS设备     |   MIPS设备编译状态及下载链接 |   插件配置   | 备注说明   |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 

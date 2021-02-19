@@ -117,7 +117,7 @@
 1. 采用 [Argon 主题](https://github.com/jerrykuku/luci-theme-argon)，界面更美丽。
 
 <details>
- <summary>&nbsp;&nbsp;&nbsp; Argon 主题展示图</summary>
+ <summary>&nbsp;&nbsp;&nbsp; Argon 主题效果图</summary>
    
 <br/>
     

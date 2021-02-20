@@ -268,6 +268,13 @@
 
 ### 捐助方式
 
+.center {
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 <div class="center">
 
 |     <img src="https://img.shields.io/badge/-支付宝-FFFFFF.svg" href="#赞助支持本项目-" height="25" alt="图裂了😂"/>  |  <img src="https://img.shields.io/badge/-微信-FFFFFF.svg" height="25" alt="图裂了😂" href="#赞助支持本项目-"/>  | 

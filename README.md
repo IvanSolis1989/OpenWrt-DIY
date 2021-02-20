@@ -280,7 +280,7 @@
 
 ## 鸣谢 [![](https://img.shields.io/badge/-跪谢各大佬-FFFFFF.svg)](#鸣谢-)
  
-[P3TERX 的 Action 源码](https://github.com/P3TERX/Actions-OpenWrt) [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede) [OpenWrt 官方源](https://github.com/openwrt/openwrt) [Lienol 的 Packages 源码](https://github.com/Lienol/openwrt-packages)
+[P3TERX 的 Action 源码](https://github.com/P3TERX/Actions-OpenWrt)<br/>[Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)<br/>[OpenWrt 官方源](https://github.com/openwrt/openwrt)<br/>[Lienol 的 Packages 源码](https://github.com/Lienol/openwrt-packages)
 
 ###### [解决 Github 网页上图片显示失败的问题](https://blog.csdn.net/qq_38232598/article/details/91346392)
 

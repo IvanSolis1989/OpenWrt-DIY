@@ -285,6 +285,8 @@
 
 [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)
 
+[OpenWrt 官方源](https://github.com/openwrt/openwrt)
+
 [Lienol 的 Packages 源码](https://github.com/Lienol/openwrt-packages)
 
 ###### [解决 Github 网页上图片显示失败的问题](https://blog.csdn.net/qq_38232598/article/details/91346392)

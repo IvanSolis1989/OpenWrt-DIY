@@ -77,9 +77,9 @@
     
 <br/>
 
-`注意：考虑到 MIPS 设备的 CPU 性能及 RAM/ROM 量配置，功能较其他设备做了很大范围的删减。`
+**注意：考虑到 MIPS 设备的 CPU 性能及 RAM/ROM 量配置，功能较其他设备做了很大范围的删减。**
 
-`MIPS 设备推荐使用 Padavan 固件：`  [![](https://img.shields.io/badge/-Padavan_固件仓库_1-FFFFFF.svg)](https://github.com/hanwckf/rt-n56u) [![](https://img.shields.io/badge/-Padavan_固件仓库_2-FFFFFF.svg)](https://opt.cn2qq.com/padavan/) [![](https://img.shields.io/badge/-Padavan_固件仓库_3-FFFFFF.svg)](https://github.com/gorden5566/padavan)
+**MIPS 设备推荐使用 Padavan 固件：**  [![](https://img.shields.io/badge/-Padavan_固件仓库_1-FFFFFF.svg)](https://github.com/hanwckf/rt-n56u) [![](https://img.shields.io/badge/-Padavan_固件仓库_2-FFFFFF.svg)](https://opt.cn2qq.com/padavan/) [![](https://img.shields.io/badge/-Padavan_固件仓库_3-FFFFFF.svg)](https://github.com/gorden5566/padavan)
 
 **点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
 |    序号   |     MIPS设备     |   MIPS设备编译状态及下载链接 |   插件配置   | 备注说明   |
@@ -106,9 +106,9 @@
 
 2. [**插件及功能预览 请点击查看**](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-DIY%E6%8F%92%E4%BB%B6%E9%A2%84%E8%A7%88)
 
-3.  **每周五查询大雕源码是否有更新** ，如有更新自动拉取最新源码和第三方软件包项目自动编译（根据设备不同编译时间在1~5个小时），**固件包含必要驱动及常用插件**（各设备的 config 借鉴大雕设置及根据网友需求调整），未逐一经过实机测试，故 **不保证 100% 可靠性**；
+3. `每周五查询大雕源码是否有更新`，如有更新自动拉取最新源码和第三方软件包项目自动编译（根据设备不同编译时间在1~5个小时），`固件包含必要驱动及常用插件`（各设备的 config 借鉴大雕设置及根据网友需求调整），未逐一经过实机测试，故 `不保证 100% 可靠性`；
 
-4. 如有什么问题、需要增加编译设备或者编译文件配置需要调整的，**可以直接在 [Issues](https://github.com/IvanSolis1989/OpenWrt-DIY/issues) 内留言。** 我会不定时的根据大家的要求修改**编译配置，插件选项，增加编译设备**等；
+4. 如有什么问题、需要增加编译设备或者编译文件配置需要调整的，`可以直接在 [Issues](https://github.com/IvanSolis1989/OpenWrt-DIY/issues) 内留言。` 我会不定时的根据大家的要求修改`编译配置，插件选项，增加编译设备`等；
 
 5. 为了让更多朋友的设备能用上稳定且功能强大的 OpenWrt 固件，并保持持续更新。也希望动手能力强的朋友去学习编译（后文有教程），然后根据你自己的需要配置 menuconfig，把配置好的 config 文件提交到本项目，可以根据使用者的需求扩充更多设备。
 

@@ -82,9 +82,7 @@
 
 **MIPS 设备推荐使用 Padavan 固件**
 
-[Padavan 仓库 1](https://github.com/hanwckf/rt-n56u)
-
-[Padavan 仓库 2](https://opt.cn2qq.com/padavan/)
+[Padavan 仓库 1](https://github.com/hanwckf/rt-n56u) [Padavan 仓库 2](https://opt.cn2qq.com/padavan/)
 
 **点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
 |    序号   |     MIPS设备     |   MIPS设备编译状态及下载链接 |   插件配置   | 备注说明   |

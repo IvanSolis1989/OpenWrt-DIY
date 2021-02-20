@@ -78,9 +78,9 @@
     
 <br/>
 
-**注意：考虑到MIPS设备的CPU性能及RAM/ROM容量配置，OpenWrt插件为实验性，插件较其他设备做了很大范围的删减。**
+**注意：考虑到 MIPS 设备的 CPU 性能及 RAM/ROM 量配置，功能较其他设备做了很大范围的删减。**
 
-**推荐使用 Padavan 固件**
+**MIPS 设备推荐使用 Padavan 固件**
 
 [Padavan 仓库 1](https://github.com/hanwckf/rt-n56u)
 

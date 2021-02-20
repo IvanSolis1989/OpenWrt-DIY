@@ -102,7 +102,7 @@
 
 ## 基本介绍 [![](https://img.shields.io/badge/-项目基本介绍-FFFFFF.svg)](#基本介绍-)
 
-1. 默认引用[ Lean 的 OpenWrt 源](https://github.com/coolsnowwolf/lede)（部分设备整合[ Lienol 的 Packages 源](https://github.com/Lienol/openwrt-packages)），因为他的 [README](https://github.com/coolsnowwolf/lede/blob/master/README.md) 影响了我开始学习编译；Github Actions 自动云编译代码采用 [P3TERX 的 Actions-OpenWrt 源 ](https://github.com/P3TERX/Actions-OpenWrt)。
+1. 默认引用[ Lean 的 OpenWrt 库](https://github.com/coolsnowwolf/lede)（部分设备整合[ Lienol 的 Packages 库](https://github.com/Lienol/openwrt-packages)），因为他的 [README](https://github.com/coolsnowwolf/lede/blob/master/README.md) 影响了我开始学习编译；Github Actions 自动云编译代码采用 [P3TERX 的 Actions-OpenWrt 库 ](https://github.com/P3TERX/Actions-OpenWrt)。
 
 2. [插件及功能预览 请点击查看](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-DIY%E6%8F%92%E4%BB%B6%E9%A2%84%E8%A7%88)
 
@@ -278,13 +278,13 @@
 
 ## 鸣谢 [![](https://img.shields.io/badge/-跪谢各大佬-FFFFFF.svg)](#鸣谢-)
  
-[OpenWrt 官方源](https://github.com/openwrt/openwrt)
+[OpenWrt 官方库](https://github.com/openwrt/openwrt)
 
-[P3TERX 的 Action 源码](https://github.com/P3TERX/Actions-OpenWrt)
+[P3TERX 的 Action 库](https://github.com/P3TERX/Actions-OpenWrt)
 
-[Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)
+[Lean 的 OpenWrt 库](https://github.com/coolsnowwolf/lede)
 
-[Lienol 的 Packages 源码](https://github.com/Lienol/openwrt-packages)
+[Lienol 的 Packages 库](https://github.com/Lienol/openwrt-packages)
 
 ###### [解决 Github 网页上图片显示失败的问题](https://blog.csdn.net/qq_38232598/article/details/91346392)
 

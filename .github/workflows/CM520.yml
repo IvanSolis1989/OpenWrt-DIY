@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build 星际宝盒 CM520 OpenWrt
+name: Build MobiPromo CM520 OpenWrt
 
 on:
   repository_dispatch:

@@ -126,7 +126,7 @@
 <br/>
     
 <img src="https://github.com/jerrykuku/luci-theme-argon/raw/master/Screenshots/screenshot_pc.jpg" alt="图裂了😂需要机场才能正常显示"/><br/>
-<img src="https://img.vim-cn.com/e8/f097afc80f3997d22cef47eec5cd0da306ff87.jpg" alt="图裂了😂需要机场才能正常显示"/><br/> 
+<img src="https://img.vim-cn.com/ed/bc50016fba680cc775c2260e7fadb25ad6b8cc.jpg" alt="图裂了😂需要机场才能正常显示"/><br/> 
 </details>
 
 2. **不再定时编译**，所有设备改为每周五查询大雕源码是否有更新，有更新就自动编译，无更新编译就会自动延迟到下周五。

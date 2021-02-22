@@ -23,7 +23,7 @@ env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: config/linksys_wrt3200acm.config
+  CONFIG_FILE: config/ARM/linksys_wrt3200acm.config
   DIY_P1_SH: scripts/diy-part1.sh
   DIY_P2_SH: scripts/diy-part3.sh
   UPLOAD_BIN_DIR: true

@@ -9,7 +9,7 @@
 # Description: Source code update checker
 #
 
-name: Lean Source Update Checker
+name: -Source Update Checker-
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede

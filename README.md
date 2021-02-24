@@ -125,7 +125,7 @@
    
 <br/>
     
-<img src="https://github.com/jerrykuku/luci-theme-argon/raw/master/Screenshots/screenshot_pc.jpg" alt="图裂了😂需要机场才能正常显示"/><br/>
+<img src="https://raw.githubusercontent.com/jerrykuku/staff/master/argon2.gif" alt="图裂了😂需要机场才能正常显示"/><br/>
 <img src="https://img.vim-cn.com/65/37b71b446767d67c388b9507fb9cbf2f1d4462.jpg" alt="图裂了😂需要机场才能正常显示"/><br/> 
 </details>
 

@@ -20,6 +20,10 @@ pushd package/community
 # Add Lienol's Packages
 git clone --depth=1 https://github.com/Lienol/openwrt-package
 
+# Add OpenWrt's Packages
+git clone --depth=1 https://github.com/openwrt/luci/tree/master/applications/luci-app-acme
+git clone --depth=1 https://github.com/openwrt/packages/tree/master/net/acme
+
 # Add dnsfilter
 git clone --depth=1 https://github.com/garypang13/luci-app-dnsfilter
 

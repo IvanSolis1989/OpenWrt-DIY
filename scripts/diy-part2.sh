@@ -48,8 +48,7 @@ git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
 
 # Add luci-app-adguardhome
-svn co https://github.com/immortalwrt/immortalwrt/trunk/package/ctcgfw/luci-app-adguardhome
-svn co https://github.com/immortalwrt/packages/trunk/net/adguardhome
+git clone --depth=1 https://github.com/SuLingGG/luci-app-adguardhome
 
 # Add luci-app-diskman
 git clone --depth=1 https://github.com/SuLingGG/luci-app-diskman

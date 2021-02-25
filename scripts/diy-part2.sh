@@ -69,6 +69,10 @@ git clone --depth=1 -b 18.06 https://github.com/jerrykuku/luci-theme-argon
 git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
 rm -rf ../lean/luci-theme-argon
 
+# Add luci-theme-rosy
+git clone --depth=1 -b openwrt-18.06 https://github.com/shiyu1314/luci-theme-rosy
+rm -rf ../lean/luci-theme-rosy
+
 # Use immortalwrt's luci-app-netdata & netdata
 rm -rf ../lean/luci-app-netdata
 rm -rf ../../feeds/packages/admin/netdata

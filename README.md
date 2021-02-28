@@ -154,7 +154,7 @@
 <div align=center><img src="https://img.vim-cn.com/f8/d5f01cc3e33460963635eb7b7cf5a472859f88.png" alt="图裂了😂需要机场才能正常显示"/></div>
 </details>
 
-2. 在极少数情况下，因网络原因这两份副本可能会上传失败，如果遇到这种情况，就只能下载存放在 Github Action 里的固件了，由于 Github Action 限制，需要登录 Github 账号才可下载存放于 Github Action 中的固件 `(未登录时固件链接不可被点击)`，但 WeTransfer 和 奶牛快传 的固件下载链接在未登录状态下可正常查看，不受影响；
+2. 在极少数情况下，因网络原因这两份副本可能会上传失败，如果遇到这种情况，就只能下载存放在 Github Action 里的固件了，由于 Github Action 限制，`需要登录 Github 账号才可下载存放于 Github Action 中的固件 (未登录时固件链接不可被点击)`，但 WeTransfer 和 奶牛快传 的固件下载链接在未登录状态下可正常查看，不受影响；
 
 3. 如果需要下载存放于 Github Action 上的固件，由于众所周知的原因，请尽量使用科学上网方式下载固件，固件下载完成后，请下载 sha256sums 文件或使用压缩软件的 "测试压缩文件" 功能来验证固件的完整性。
 

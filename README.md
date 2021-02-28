@@ -157,10 +157,10 @@
 
 ## 小贴士 [![](https://img.shields.io/badge/-日常使用技巧及教程-FFFFFF.svg)](#小贴士-)
 
-**本栏目包含了很多 OpenWrt 日常使用问题解决方案、“不可描述”的教程、广告屏蔽教程，NAS（或路由器共享盘）的多媒体文件整理播放教程、OpenWrt 本地自编译教程。**
+本栏目包含了很多 OpenWrt 日常使用问题解决方案、“不可描述”的教程、广告屏蔽教程，NAS（或路由器共享盘）的多媒体文件整理播放教程、OpenWrt 本地自编译教程。
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; 基础常用</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; 基础常用</summary>
 
 <br/>
 
@@ -175,7 +175,7 @@
 </details>
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; USB 网卡</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; USB 网卡</summary>
 
 <br/>
 
@@ -194,7 +194,7 @@
 </details>
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; 不可描述</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; 不可描述</summary>
 
 <br/>
 
@@ -215,7 +215,7 @@
 </details>
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; 广告屏蔽</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; 广告屏蔽</summary>
 
 <br/>
 
@@ -228,7 +228,7 @@
 </details>
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; NAS 影院</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; NAS 影院</summary>
 
 <br/>
 
@@ -239,7 +239,7 @@
 </details>
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; 本地编译</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; 本地编译</summary>
 
 <br/>
 
@@ -261,9 +261,9 @@
 
 ## 捐助 [![](https://img.shields.io/badge/-请我喝咖啡啦-FFFFFF.svg)](#捐助-)
 
-**若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**
+若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~
 
-**你们的支持就是我的动力！**
+你们的支持就是我的动力！
 
 ### 捐助方式
 

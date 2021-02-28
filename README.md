@@ -134,7 +134,8 @@
  <summary>&nbsp;&nbsp;&nbsp; ROSY 主题效果图</summary>
    
 <br/>
-    
+<div align=center><img src="https://raw.githubusercontent.com/rosywrt/luci-theme-rosy/openwrt-18.06/previews/login-pc.png" alt="图裂了😂需要机场才能正常显示"/></div>
+<div align=center><img src="https://raw.githubusercontent.com/rosywrt/luci-theme-rosy/openwrt-18.06/previews/overview-pc.png" alt="图裂了😂需要机场才能正常显示"/></div>
 <img src="https://raw.githubusercontent.com/rosywrt/luci-theme-rosy/openwrt-18.06/previews/login-pc.png" alt="图裂了😂需要机场才能正常显示"/><br/>
 <img src="https://raw.githubusercontent.com/rosywrt/luci-theme-rosy/openwrt-18.06/previews/overview-pc.png" alt="图裂了😂需要机场才能正常显示"/><br/> 
 </details>

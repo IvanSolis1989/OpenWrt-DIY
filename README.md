@@ -120,7 +120,7 @@
 1. 采用 [Argon 主题](https://github.com/jerrykuku/luci-theme-argon)，界面更美丽。
 
 <details>
- <summary>&nbsp;&nbsp;&nbsp; `Argon 主题效果图`</summary>
+ <summary>&nbsp;&nbsp;&nbsp; Argon 主题效果图</summary>
    
 <br/>
     
@@ -140,7 +140,7 @@
 
 1. 在固件编译完成后，会上传一份副本到 WeTransfer 和 奶牛快传，对于国内网络用户，为提高下载体验，可下载存放于这两个网站中的固件副本，副本下载地址位于固件下载页面中固件文件列表下的 Annotations 提示框内，几天之后网盘内的文件会失效，所以推荐周五~周日上去下载；
 <details>
- <summary>&nbsp;&nbsp;&nbsp;`还是找不到？点击这里！`</summary>
+ <summary>&nbsp;&nbsp;&nbsp;还是找不到？点击这里！</summary>
  
 <br/>
 <img src="https://img.vim-cn.com/ef/2481045f0a6fac8ee6c0c437b5c225ee880295.png" alt="图裂了😂"/><br/>    

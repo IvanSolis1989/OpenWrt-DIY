@@ -127,7 +127,7 @@
 <div align=center><img src="https://img.vim-cn.com/65/37b71b446767d67c388b9507fb9cbf2f1d4462.jpg" alt="图裂了😂需要机场才能正常显示"/></div>
 </details>
 
-2. 加入 [ROSY 主题](https://github.com/rosywrt/luci-theme-rosy)可选
+2. 加入 [ROSY 主题](https://github.com/rosywrt/luci-theme-rosy) 可选
 
 <details>
  <summary>&nbsp;&nbsp;&nbsp; ROSY 主题效果图</summary>

@@ -128,9 +128,20 @@
 <img src="https://img.vim-cn.com/65/37b71b446767d67c388b9507fb9cbf2f1d4462.jpg" alt="图裂了😂需要机场才能正常显示"/><br/> 
 </details>
 
-2. `不再定时编译`，所有设备改为每周五查询大雕源码是否有更新，有更新就自动编译，无更新编译就会自动延迟到下周五。
+2. 加入 ROSY 主题可选
 
-3. `默认 IP 调整为：192.168.10.1，默认密码：password。`
+<details>
+ <summary>&nbsp;&nbsp;&nbsp; ROSY 主题效果图</summary>
+   
+<br/>
+    
+<img src="https://raw.githubusercontent.com/rosywrt/luci-theme-rosy/openwrt-18.06/previews/login-pc.png" alt="图裂了😂需要机场才能正常显示"/><br/>
+<img src="https://raw.githubusercontent.com/rosywrt/luci-theme-rosy/openwrt-18.06/previews/overview-pc.png" alt="图裂了😂需要机场才能正常显示"/><br/> 
+</details>
+
+3. `不再定时编译`，所有设备改为每周五查询大雕源码是否有更新，有更新就自动编译，无更新编译就会自动延迟到下周五。
+
+4. `默认 IP 调整为：192.168.10.1，默认密码：password。`
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" alt="图裂了😂" title="返回顶部" align="right"/>

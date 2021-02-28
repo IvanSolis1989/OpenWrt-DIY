@@ -10,9 +10,9 @@
 
 [![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件下载-FFFFFF.svg)](#固件下载-) [![](https://img.shields.io/badge/-基本介绍-FFFFFF.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-FFFFFF.svg)](#近期更新-) [![](https://img.shields.io/badge/-注意事项-FFFFFF.svg)](#注意事项-) [![](https://img.shields.io/badge/-小贴士-FFFFFF.svg)](#小贴士-) [![](https://img.shields.io/badge/-捐助-FFFFFF.svg)](#捐助-) [![](https://img.shields.io/badge/-鸣谢-FFFFFF.svg)](#鸣谢-)
 
-请 `认真阅读完毕` 本页面，本页面包含如何提升固件下载及使用体验的内容。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 请 `认真阅读完毕` 本页面，本页面包含如何提升固件下载及使用体验的内容。
 
-如果您未阅读完本页面，可能会遇到 `固件下载问题` ，若遇到问题，请 `返回此页面，认真完整阅读一遍`~
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 如果您未阅读完本页面，可能会遇到 `固件下载问题` ，若遇到问题，请 `返回此页面，认真完整阅读一遍`~
 
 ## 固件下载 [![](https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg)](#固件下载-)
 <details>
@@ -164,7 +164,7 @@
 
 ## 小贴士 [![](https://img.shields.io/badge/-日常使用技巧及教程-FFFFFF.svg)](#小贴士-)
 
-&nbsp;&nbsp;&nbsp; 本栏目包含了很多 OpenWrt 日常使用问题解决方案、“不可描述”的教程、广告屏蔽教程，NAS（或路由器共享盘）的多媒体文件整理播放教程、OpenWrt 本地自编译教程。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本栏目包含了很多 OpenWrt 日常使用问题解决方案、“不可描述”的教程、广告屏蔽教程，NAS（或路由器共享盘）的多媒体文件整理播放教程、OpenWrt 本地自编译教程。
 
 <details>
  <summary>&nbsp;&nbsp;&nbsp; 基础常用</summary>
@@ -268,9 +268,9 @@
 
 ## 捐助 [![](https://img.shields.io/badge/-请我喝咖啡啦-FFFFFF.svg)](#捐助-)
 
-&nbsp;&nbsp;&nbsp; 若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~
 
-&nbsp;&nbsp;&nbsp; 你们的支持就是我的动力！
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 你们的支持就是我的动力！
 
 ### 捐助方式
 

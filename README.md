@@ -76,7 +76,7 @@
     
 <br/>
 
-**注意：**考虑到 MIPS 设备的 CPU 性能及 RAM/ROM 量配置，功能较其他设备做了很大范围的删减。
+**注意：**考虑到 MIPS 设备的 CPU 性能及 RAM/ROM 量配置，功能较其他设备做了很大范围的删减。 
 
 MIPS 设备推荐使用 Padavan 固件： [![](https://img.shields.io/badge/-Padavan_固件仓库_1-FFFFFF.svg)](https://github.com/hanwckf/rt-n56u) [![](https://img.shields.io/badge/-Padavan_固件仓库_2-FFFFFF.svg)](https://opt.cn2qq.com/padavan/) [![](https://img.shields.io/badge/-Padavan_固件仓库_3-FFFFFF.svg)](https://github.com/gorden5566/padavan)
 

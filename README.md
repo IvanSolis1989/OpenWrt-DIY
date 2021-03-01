@@ -35,7 +35,7 @@
     
 <br/>
  
-**点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
+点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面
 |    序号   |     ARM设备    |   ARM设备编译状态及下载链接 |   插件配置   | 备注说明   |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 
 | 1 |       [![](https://img.shields.io/badge/OpenWrt-N1_盒子-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/.github/workflows/N1.yml)         |[![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20N1%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions/workflows/N1.yml) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/ARM/arm-mini-extra.config)  | | 
@@ -50,7 +50,7 @@
 |10|       [![](https://img.shields.io/badge/OpenWrt-Linksys_Wrt3200acm-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/.github/workflows/linksys_wrt3200acm.yml)           |[![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20Linksys%20Wrt3200acm%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions/workflows/linksys_wrt3200acm.yml) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/ARM/linksys-extra.config)  |  | 
 |11|       [![](https://img.shields.io/badge/OpenWrt-Linksys_Wrt32x-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/.github/workflows/linksys_wrt32x.yml)           |[![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20Linksys%20Wrt32x%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions/workflows/linksys_wrt32x.yml) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/ARM/linksys-extra.config)  |  | 
 
-**提示：**[![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 标志为正常，[![](https://img.shields.io/badge/设备-failing-DC143C.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 或 [![](https://img.shields.io/badge/设备-no_status-A9A9A9.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 不代表所有编译均失败。请点击 [![](https://img.shields.io/badge/设备-状态-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 到 **Actions** 进一步查看。
+**提示：**[![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 标志为正常，[![](https://img.shields.io/badge/设备-failing-DC143C.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 或 [![](https://img.shields.io/badge/设备-no_status-A9A9A9.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 不代表所有编译均失败。请点击 [![](https://img.shields.io/badge/设备-状态-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 到 Actions 进一步查看。
 
 </details>
 
@@ -59,7 +59,7 @@
     
 <br/>
 
-**点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
+点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面
 |    序号   |     高通平台     |   高通设备编译状态及下载链接 |   插件配置   | 备注说明   |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 
 | 1 |        [![](https://img.shields.io/badge/OpenWrt-竞斗云-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/.github/workflows/gdock.yml)         |[![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20G-Dock%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions/workflows/gdock.yml) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/Qualcomm/Qualcomm-extra.config)  | | 
@@ -67,7 +67,7 @@
 | 3|     [![](https://img.shields.io/badge/OpenWrt-星际宝盒_CM520-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/.github/workflows/CM520.yml)   | [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20MobiPromo%20CM520%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions/workflows/CM520.yml) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/Qualcomm/Qualcomm-extra.config) |   |
 | 4 |        [![](https://img.shields.io/badge/OpenWrt-斐讯_K2T-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/.github/workflows/K2T.yml)           | [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20PHICOMM%20K2T%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions/workflows/K2T.yml)|[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/Qualcomm/Qualcomm-mini-extra.config) | |
 
-**提示：**[![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 标志为正常，[![](https://img.shields.io/badge/设备-failing-DC143C.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 或 [![](https://img.shields.io/badge/设备-no_status-A9A9A9.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 不代表所有编译均失败。请点击 [![](https://img.shields.io/badge/设备-状态-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 到 **Actions** 进一步查看。
+**提示：**[![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 标志为正常，[![](https://img.shields.io/badge/设备-failing-DC143C.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 或 [![](https://img.shields.io/badge/设备-no_status-A9A9A9.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 不代表所有编译均失败。请点击 [![](https://img.shields.io/badge/设备-状态-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 到 Actions 进一步查看。
 
 </details>
 
@@ -80,7 +80,7 @@
 
 **MIPS 设备推荐使用 Padavan 固件：**  [![](https://img.shields.io/badge/-Padavan_固件仓库_1-FFFFFF.svg)](https://github.com/hanwckf/rt-n56u) [![](https://img.shields.io/badge/-Padavan_固件仓库_2-FFFFFF.svg)](https://opt.cn2qq.com/padavan/) [![](https://img.shields.io/badge/-Padavan_固件仓库_3-FFFFFF.svg)](https://github.com/gorden5566/padavan)
 
-**点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
+点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面
 |    序号   |     MIPS设备     |   MIPS设备编译状态及下载链接 |   插件配置   | 备注说明   |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 
 | 1 |        [![](https://img.shields.io/badge/OpenWrt-极路由_B70-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/.github/workflows/B70.yml)        |[![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20HiWiFi%20B70%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions/workflows/B70.yml)|[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/MIPS/MIPS-extra.config) | |
@@ -91,7 +91,7 @@
 | 6|     [![](https://img.shields.io/badge/OpenWrt-小米_R3G-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/.github/workflows/R3G.yml)   | [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20Mi%20R3G%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions/workflows/R3G.yml) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/MIPS/MIPS-extra.config) |   |
 | 8|     [![](https://img.shields.io/badge/OpenWrt-小米_R3P-FFFFFF.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/.github/workflows/R3P.yml)   | [![](https://github.com/IvanSolis1989/OpenWrt-DIY/workflows/Build%20Mi%20R3P%20OpenWrt/badge.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions/workflows/R3P.yml) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/blob/main/config/MIPS/MIPS-extra.config) |   |
 
-**提示：**[![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 标志为正常，[![](https://img.shields.io/badge/设备-failing-DC143C.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 或 [![](https://img.shields.io/badge/设备-no_status-A9A9A9.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 不代表所有编译均失败。请点击 [![](https://img.shields.io/badge/设备-状态-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 到 **Actions** 进一步查看。
+**提示：**[![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 标志为正常，[![](https://img.shields.io/badge/设备-failing-DC143C.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 或 [![](https://img.shields.io/badge/设备-no_status-A9A9A9.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 不代表所有编译均失败。请点击 [![](https://img.shields.io/badge/设备-状态-32CD32.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) 到 Actions 进一步查看。
 
 </details>
 

@@ -48,7 +48,7 @@ git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
 
 # Add luci-app-adguardhome
-svn co https://github.com/immortalwrt/immortalwrt/trunk/package/ctcgfw/luci-app-adguardhome
+git clone --depth=1 https://github.com/SuLingGG/luci-app-adguardhome
 
 # Add luci-app-diskman
 git clone --depth=1 https://github.com/SuLingGG/luci-app-diskman
@@ -56,9 +56,8 @@ mkdir parted
 cp luci-app-diskman/Parted.Makefile parted/Makefile
 
 # Add luci-app-dockerman
-svn co https://github.com/immortalwrt/immortalwrt/trunk/package/ctcgfw/luci-app-dockerman
-sed -i 's/ttyd/ttyd +dockerd/g' luci-app-dockerman/Makefile
-svn co https://github.com/immortalwrt/immortalwrt/trunk/package/ctcgfw/luci-lib-docker
+git clone --depth=1 https://github.com/KFERMercer/luci-app-dockerman
+git clone --depth=1 https://github.com/lisaac/luci-lib-docker
 
 # Add luci-app-gowebdav
 git clone --depth=1 https://github.com/project-openwrt/openwrt-gowebdav

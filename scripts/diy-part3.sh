@@ -13,19 +13,17 @@
 # Modify default IP
 sed -i 's/192.168.1.1/192.168.10.1/g' package/base-files/files/bin/config_generate
 
+# Add luci-app-ssr-plus
+pushd package/lean
+git clone --depth=1 https://github.com/fw876/helloworld
+popd
+
 # Clone community packages to package/community
 mkdir package/community
 pushd package/community
 
 # Add Lienol's Packages
 git clone --depth=1 https://github.com/Lienol/openwrt-package
-
-# Add OpenWrt's Packages
-git clone --depth=1 https://github.com/openwrt/luci/tree/master/applications/luci-app-acme
-git clone --depth=1 https://github.com/openwrt/packages/tree/master/net/acme
-
-# Add dnsfilter
-git clone --depth=1 https://github.com/garypang13/luci-app-dnsfilter
 
 # Add luci-app-passwall
 git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall
@@ -60,6 +58,7 @@ mkdir parted
 cp luci-app-diskman/Parted.Makefile parted/Makefile
 
 # Add luci-app-dockerman
+rm -rf ../lean/luci-app-docker
 git clone --depth=1 https://github.com/KFERMercer/luci-app-dockerman
 git clone --depth=1 https://github.com/lisaac/luci-lib-docker
 
@@ -74,10 +73,6 @@ rm -rf ../lean/luci-theme-argon
 # Use immortalwrt's luci-app-netdata
 rm -rf ../lean/luci-app-netdata
 svn co https://github.com/immortalwrt/immortalwrt/trunk/package/ntlf9t/luci-app-netdata
-
-# Add luci-theme-rosy
-git clone --depth=1 -b openwrt-18.06 https://github.com/shiyu1314/luci-theme-rosy
-rm -rf ../lean/luci-theme-rosy
 
 # Add tmate
 git clone --depth=1 https://github.com/project-openwrt/openwrt-tmate

@@ -125,8 +125,21 @@ jobs:
       id: organize
       if: env.UPLOAD_FIRMWARE == 'true' && !cancelled()
       run: |
-        cd openwrt/bin/targets/*/*
+        pushd openwrt/bin/targets/*/*
         rm -rf packages
+        popd
+        cd openwrt
+        mkdir -p release
+        mkdir -p release/ipk
+        mkdir -p release/firmware
+        cp -rf $(find bin/packages/ -type f -name "*.ipk") release/ipk
+        ls release/ipk -l | grep ^[^d] | awk '{print $9}' >> release/releaseIPK.txt
+        cp bin/targets/*/*/* release/
+        pushd release/ipk
+        zip -q -r ../package.zip *
+        popd
+        rm -rf release/ipk
+        cd  release
         echo "FIRMWARE=$PWD" >> $GITHUB_ENV
         echo "::set-output name=status::success"
 

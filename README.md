@@ -234,6 +234,8 @@ MIPS 设备推荐使用 Padavan 固件： [![](https://img.shields.io/badge/-Pad
 
 [AdGuardHome更新好内核后，启动提示AdGuardHome 未运行 未重定向](https://www.vediotalk.com/archives/29410)
 
+[AdGuard Home规则大全](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/AdGuard-Home%E8%A7%84%E5%88%99%E5%A4%A7%E5%85%A8)
+
 </details>
 
 <details>

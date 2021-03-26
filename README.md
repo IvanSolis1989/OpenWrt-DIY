@@ -274,8 +274,6 @@ MIPS 设备推荐使用 Padavan 固件： [![](https://img.shields.io/badge/-Pad
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目……请作者喝杯咖啡~~~
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 你们的支持就是我的动力！
-
 **捐助方式**
 
 |     <img src="https://img.shields.io/badge/-支付宝-FFFFFF.svg" href="#赞助支持本项目-" height="25" alt="图裂了😂"/>  |  <img src="https://img.shields.io/badge/-微信-FFFFFF.svg" height="25" alt="图裂了😂" href="#赞助支持本项目-" />  | 

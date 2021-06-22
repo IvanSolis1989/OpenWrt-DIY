@@ -119,31 +119,7 @@ MIPS 设备推荐使用 Padavan 固件： [![](https://img.shields.io/badge/-Pad
 
 ## 近期更新 [![](https://img.shields.io/badge/-近期固件更新-FFFFFF.svg)](#近期更新-)
 
-1. 默认 [Argon 主题](https://github.com/jerrykuku/luci-theme-argon)，界面更美丽。
-
-<details>
- <summary>&nbsp;&nbsp;&nbsp; Argon 主题效果图</summary>
-   
-<br/>
-<div align=center><img src="https://raw.githubusercontent.com/jerrykuku/staff/master/argon2.gif" alt="图裂了😂需要机场才能正常显示"/></div>
-<div align=center><img src="https://img.vim-cn.com/65/37b71b446767d67c388b9507fb9cbf2f1d4462.jpg" alt="图裂了😂需要机场才能正常显示"/></div>
-</details>
-
-2. 加入 [ROSY 主题](https://github.com/rosywrt/luci-theme-rosy) 可选
-
-<details>
- <summary>&nbsp;&nbsp;&nbsp; ROSY 主题效果图</summary>
-   
-<br/>
-<div align=center><img src="https://raw.githubusercontent.com/rosywrt/luci-theme-rosy/openwrt-18.06/previews/login-pc.png" alt="图裂了😂需要机场才能正常显示"/></div>
-<div align=center><img src="https://raw.githubusercontent.com/rosywrt/luci-theme-rosy/openwrt-18.06/previews/overview-pc.png" alt="图裂了😂需要机场才能正常显示"/></div>
-</details>
-
-3. `默认 IP 调整为：192.168.10.1，默认密码：password。`
-
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" alt="图裂了😂" title="返回顶部" align="right"/>
-</a>
+  🤣努力修复中……
 
 ## 注意事项 [![](https://img.shields.io/badge/-下载注意事项-FFFFFF.svg)](#注意事项-)
 

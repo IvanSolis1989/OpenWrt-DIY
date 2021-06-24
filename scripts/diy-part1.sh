@@ -11,10 +11,8 @@
 #
 
 # Uncomment a feed source
-sed -i '/src-git packages/d' feeds.conf.default
-echo "src-link packages $packages_feed" >> feeds.conf.default
-sed -i '/src-git luci/d' feeds.conf.default
-echo "src-link luci $luci_feed" >> feeds.conf.default
+sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
+sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add feed sources
 sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default

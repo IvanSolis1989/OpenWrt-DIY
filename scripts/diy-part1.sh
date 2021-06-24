@@ -10,6 +10,8 @@
 # Description: OpenWrt DIY script part 1 (Before Update feeds)
 #
 # Svn checkout packages from immortalwrt's repository
+cd openwrt
+mkdir customfeeds
 pushd customfeeds
 mkdir temp
 git clone --depth=1 https://github.com/immortalwrt/packages -b openwrt-18.06 temp/packages
@@ -48,10 +50,10 @@ rm -rf temp
 popd
 
 # Set to local feeds
-pushd packages
+pushd customfeeds/packages
 export packages_feed="$(pwd)"
 popd
-pushd luci
+pushd customfeeds/luci
 export luci_feed="$(pwd)"
 popd
 sed -i '/src-git packages/d' feeds.conf.default

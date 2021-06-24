@@ -62,8 +62,6 @@ jobs:
     - name: Load custom feeds
       run: |
         [ -e $FEEDS_CONF ] && mv $FEEDS_CONF openwrt/feeds.conf.default
-        git clone --depth=1 https://github.com/coolsnowwolf/packages packages
-        git clone --depth=1 https://github.com/coolsnowwolf/luci luci
         chmod +x $DIY_P1_SH
         cd openwrt
         $GITHUB_WORKSPACE/$DIY_P1_SH

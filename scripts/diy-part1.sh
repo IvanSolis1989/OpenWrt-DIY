@@ -10,10 +10,10 @@
 # Description: OpenWrt DIY script part 1 (Before Update feeds)
 #
 # Svn checkout packages from immortalwrt's repository
-cd openwrt
 mkdir customfeeds
 git clone --depth=1 https://github.com/coolsnowwolf/packages customfeeds/packages
 git clone --depth=1 https://github.com/coolsnowwolf/luci customfeeds/luci
+
 pushd customfeeds
 mkdir temp
 git clone --depth=1 https://github.com/immortalwrt/packages -b openwrt-18.06 temp/packages

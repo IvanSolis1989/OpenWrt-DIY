@@ -120,7 +120,7 @@ MIPS 设备推荐使用 Padavan 固件： [![](https://img.shields.io/badge/-Pad
 
 ## 近期更新 [![](https://img.shields.io/badge/-近期固件更新-FFFFFF.svg)](#近期更新-)
 
-  🤣努力修复中……
+  🤣遗憾的告诉大家，本仓库停止维护，有大佬愿意搞的可以搞……
 
 ## 注意事项 [![](https://img.shields.io/badge/-下载注意事项-FFFFFF.svg)](#注意事项-)
 
